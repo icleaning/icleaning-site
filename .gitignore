@@ -1,0 +1,14 @@
+# build output — regenerate with `npm run build`
+dist/
+node_modules/
+
+# archives (site uploads, old site backups)
+*.zip
+*.tar.gz
+*.gz
+
+# secrets must never be committed
+*.pem
+*.key
+*.crt
+.env

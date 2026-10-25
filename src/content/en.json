@@ -1,0 +1,1412 @@
+{
+ "lang": "en",
+ "htmlLang": "en",
+ "label": "EN",
+ "name": "English",
+ "locale": "en_US",
+ "ui": {
+  "nav": {
+   "home": "Home",
+   "services": "Services",
+   "faq": "FAQ",
+   "info": "Info center",
+   "contacts": "Contacts",
+   "callback": "Request a call"
+  },
+  "svc": {
+   "general": "General cleaning",
+   "regular": "Regular cleaning",
+   "eco": "Eco cleaning",
+   "repair": "Post-renovation cleaning",
+   "dryclean": "Carpet & upholstery dry cleaning",
+   "windows": "Window cleaning"
+  },
+  "common": {
+   "order": "Place an order",
+   "menu": "Menu",
+   "close": "Close",
+   "prev": "Previous",
+   "next": "Next",
+   "phoneLabel": "Phone",
+   "readMore": "Read more",
+   "allPosts": "All articles",
+   "language": "Language",
+   "skip": "Skip to content",
+   "bookTrial": "Order a trial cleaning",
+   "backHome": "Back to home"
+  },
+  "home": {
+   "servicesTitle": "Cleaning services",
+   "services": [
+    {
+     "key": "general",
+     "h": "GENERAL CLEANING",
+     "p": "Absolute cleanliness in every corner of your home",
+     "icon": "E209"
+    },
+    {
+     "key": "repair",
+     "h": "POST-RENOVATION CLEANING",
+     "p": "We'll get your renovated home ready for comfortable living",
+     "icon": "E077"
+    },
+    {
+     "key": "regular",
+     "h": "REGULAR CLEANING",
+     "p": "Take the worry of keeping things clean off your shoulders",
+     "icon": "E20E"
+    },
+    {
+     "key": "dryclean",
+     "h": "DRY CLEANING",
+     "p": "We'll bring back the original cleanliness of your furniture and carpets",
+     "icon": "E22B"
+    },
+    {
+     "key": "windows",
+     "h": "WINDOW CLEANING",
+     "p": "See the world without barriers",
+     "icon": "E036"
+    }
+   ],
+   "qualityTitle": "Quality",
+   "quality": [
+    {
+     "icon": "user",
+     "h": "STAFF SELECTION",
+     "p": [
+      "We turn down up to 95% of candidates through:",
+      "1. An interview",
+      "2. Practical skills testing"
+     ]
+    },
+    {
+     "icon": "graduation-cap",
+     "h": "TRAINING AND EVALUATION",
+     "p": [
+      "Specialized training in choosing cleaning products and equipment. Work is evaluated on punctuality, quality, speed and professionalism."
+     ]
+    },
+    {
+     "icon": "clock-o",
+     "h": "AN HONEST APPROACH",
+     "p": [
+      "If you have any complaints about the work, we come back and clean again at no extra charge"
+     ]
+    }
+   ],
+   "diffTitle": "How we differ from private cleaners and industrial companies",
+   "diff": [
+    {
+     "icon": "thumbs-o-up",
+     "h": "EXPERT KNOWLEDGE",
+     "p": "We specialize in apartments, so we know everything about cleaning products and how to treat different materials"
+    },
+    {
+     "icon": "shield",
+     "h": "STAFF VETTING",
+     "p": "Unlike private cleaners, we are responsible for the safety of your belongings and follow a multi-stage hiring procedure"
+    },
+    {
+     "icon": "shopping-cart",
+     "h": "RANGE OF SERVICES",
+     "p": "Our team lets us match professionals to your individual needs"
+    },
+    {
+     "icon": "flask",
+     "h": "TECHNICAL EQUIPMENT",
+     "p": "With us you get a full range of hypoallergenic products and professional equipment"
+    }
+   ],
+   "reviewsTitle": "What our clients say",
+   "slides": [
+    {
+     "img": "main2_1",
+     "title": "Need cleaning urgently?",
+     "sub": "",
+     "btn": true
+    },
+    {
+     "img": "genubor_1",
+     "title": "Open the door to perfect cleanliness",
+     "sub": ""
+    },
+    {
+     "img": "mebel",
+     "title": "Gentle dry cleaning",
+     "sub": "We'll choose the products your furniture needs"
+    },
+    {
+     "img": "okna2",
+     "title": "Sparkling windows",
+     "sub": "Let the sunshine light up your home"
+    },
+    {
+     "img": "remont1",
+     "title": "Waiting to move in?",
+     "sub": "Leave post-renovation cleaning to the professionals"
+    }
+   ]
+  },
+  "badges": [
+   "Quality and safety guarantee",
+   "Punctuality",
+   "Over 1,000 apartments and houses cleaned",
+   "Skilled staff"
+  ],
+  "stepsTitle": "How ordering works",
+  "reviews": [
+   {
+    "q": "Great guys — you can tell right away that they know their business. They cleaned quickly and conscientiously, and I have no complaints at all. Everything shines after the cleaning, the air is fresh, the windows look brand new. That's why two weeks later I signed a contract with the company for regular cleaning.",
+    "name": "Viktor Yuriyovych",
+    "role": "Businessman"
+   },
+   {
+    "q": "The cleaning took almost an hour and a half longer than the announced 5 hours, but the result is simply perfect — they got rid of old stains in the bathroom that I couldn't deal with myself. Many thanks to the company for good workers and for help with the housework!",
+    "name": "Olga Mykolayivna",
+    "role": "Beauty salon director"
+   },
+   {
+    "q": "The day after the cleaning I noticed streaks on the parquet. The same day the quality control department called me to ask whether I liked the service, and I told them about my remarks. Surprisingly, they reacted to the complaint very promptly — they came back and polished the whole parquet floor again.",
+    "name": "Yulia Serhiyivna",
+    "role": "Homemaker"
+   }
+  ],
+  "footer": {
+   "aboutTitle": "About us",
+   "about": [
+    "We are an experienced team of cleaning professionals. We have been in the cleaning business for more than 5 years.",
+    "Our mission is to bring cleanliness to your home and free up your precious time.",
+    "We believe there are no small things in cleaning, so:",
+    "• we choose all products carefully;",
+    "• our staff have been trained and have completed an internship;",
+    "• every step is clearly coordinated — from the moment we receive your request to the moment you walk into a clean home.",
+    "Our services: general cleaning, regular (daily) cleaning, post-renovation cleaning, window cleaning, eco cleaning, dry cleaning of upholstered furniture and carpets."
+   ],
+   "open": "We are open for you every day of the week from 09:00 to 19:00",
+   "online": "Online requests are accepted around the clock.",
+   "area": "We work in Kyiv and the Kyiv region.",
+   "contactsTitle": "Our contacts",
+   "hours": "We work from 9:00 to 19:00",
+   "onlineLabel": "Online requests:",
+   "onlineValue": "24/7",
+   "social": "Follow us",
+   "rights": "All rights reserved."
+  },
+  "modal": {
+   "title": "Place an order",
+   "lead": "Leave your name and phone number — a manager will call you back and clarify the details.",
+   "name": "Your name",
+   "phone": "Phone",
+   "comment": "Comment (optional)",
+   "send": "Send request",
+   "sending": "Sending…",
+   "success": "Thank you! Your request has been received, we will call you soon.",
+   "testMode": "Test mode: requests are not sent from a local computer. On a PHP hosting the request will be e-mailed to you.",
+   "error": "The request could not be sent. Please call us: ",
+   "invalidName": "Please enter your name.",
+   "invalidPhone": "Please enter a phone number — at least 9 digits."
+  },
+  "calc": {
+   "roomsLabel": "Number of rooms",
+   "roomsPlaceholder": "Select the number of rooms",
+   "rooms": [
+    "1 room",
+    "2 rooms",
+    "3 rooms",
+    "4 rooms",
+    "5 rooms"
+   ],
+   "extrasLegend": "Extras",
+   "perHour": " / hour",
+   "extras": {
+    "bath2": "Second bathroom",
+    "balcony": "Balcony",
+    "pet": "Pet",
+    "linen": "Changing bed linen",
+    "plants": "Watering plants",
+    "fridge": "Cleaning inside the fridge",
+    "oven": "Cleaning inside the oven",
+    "microwave": "Cleaning inside the microwave",
+    "dishes": "Washing dishes",
+    "ironing": "Ironing"
+   },
+   "freqLabel": "How often to clean",
+   "freq": {
+    "week": "Once a week",
+    "two": "Once every 2 weeks",
+    "three": "Once every 3 weeks",
+    "month": "Once a month"
+   },
+   "resultTitle": "Preliminary estimate",
+   "empty": "Select the number of rooms — we'll show the price right away.",
+   "one": "One cleaning",
+   "first": "First cleaning (+50%)",
+   "order": "Order a trial cleaning",
+   "currency": "UAH",
+   "linesRooms": "Rooms",
+   "linesExtras": "Extra services",
+   "linesFreq": "Frequency surcharge",
+   "d": {
+    "prefix": "Regular cleaning calculator",
+    "rooms": "rooms",
+    "extras": "extras",
+    "freq": "frequency",
+    "one": "one cleaning",
+    "first": "first cleaning"
+   }
+  },
+  "area": {
+   "title": "Calculator",
+   "rate": "Price — from 75 UAH per m².",
+   "lead": "Calculate the price by choosing the size of your apartment",
+   "label": "Apartment area",
+   "upTo": "up to",
+   "price": "Cleaning price: from",
+   "currency": "UAH",
+   "size": "Area",
+   "people": "Specialists",
+   "personUnit": "",
+   "order": "Order cleaning",
+   "d": "Area calculator",
+   "approx": "This is an approximate price; the manager will make the exact calculation."
+  },
+  "band": {
+   "title": "Any of our services always means:",
+   "items": [
+    {
+     "icon": "check",
+     "h": "100% QUALITY GUARANTEE",
+     "p": "Have any remarks? We will come back and fix the problems free of charge"
+    },
+    {
+     "icon": "shield",
+     "h": "SAFETY",
+     "p": "We take the selection and training of our cleaners very seriously"
+    },
+    {
+     "icon": "puzzle-piece",
+     "h": "WIDE RANGE OF SERVICES",
+     "p": "You can order a cleaning of any complexity on any day of the week from 00:00 to 24:00"
+    },
+    {
+     "icon": "flask",
+     "h": "KNOWLEDGE OF TECHNOLOGY",
+     "p": "We work with any surfaces and materials"
+    },
+    {
+     "icon": "thumbs-o-up",
+     "h": "CONSTANT QUALITY CONTROL",
+     "p": "You rate the cleaners' work on a five-point scale, and we make sure the work is done excellently"
+    }
+   ]
+  },
+  "diffRegular": {
+   "title": "How we differ from private cleaners:",
+   "items": [
+    {
+     "icon": "user",
+     "h": "PROFESSIONALISM",
+     "p": "Specialists with 5+ years of experience who know the specifics of working with different materials and types of dirt."
+    },
+    {
+     "icon": "refresh",
+     "h": "REPLACEABILITY",
+     "p": "Holidays and sick leave of our staff are our concern. A specialist will come to you at the agreed time and do everything."
+    },
+    {
+     "icon": "flask",
+     "h": "TECHNICAL EQUIPMENT",
+     "p": "Professional cleaning products that the cleaners bring with them."
+    },
+    {
+     "icon": "key",
+     "h": "HOME SERVICES TURNKEY",
+     "p": "Besides cleaning, we offer cooking and minor repair services. Get in touch."
+    }
+   ]
+  }
+ },
+ "home": {
+  "meta": {
+   "title": "Apartment and house cleaning in Kyiv and Kyiv region | iCleaning",
+   "desc": "High-quality and fast cleaning of apartments and houses in Kyiv and the region: general, post-construction, regular. Call: (067) 327-34-32."
+  }
+ },
+ "pages": {
+  "general": {
+   "meta": {
+    "title": "Apartment cleaning in Kyiv: prices for apartment cleaning services | iCleaning",
+    "desc": "Professional apartment cleaning in Kyiv, prices: general, daily and one-off affordable apartment cleaning — only good reviews!"
+   },
+   "h1": "General cleaning of apartments and houses",
+   "sub": "with a quality and safety guarantee",
+   "price": "from 75 UAH per m²",
+   "hero": "genubor_1",
+   "sections": [
+    {
+     "t": "areacalc"
+    },
+    {
+     "t": "h",
+     "x": "General apartment cleaning"
+    },
+    {
+     "t": "p",
+     "x": "We guarantee prompt service and are ready to come to any corner of Kyiv. Rest assured that the professionalism and responsibility of our staff will not leave you indifferent. Enjoy the atmosphere of freshness and cleanliness in your home, apartment or office today."
+    },
+    {
+     "t": "h",
+     "x": "General cleaning means:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Every room washed with carefully selected cleaning products and equipment",
+      "Carpets thoroughly vacuumed, all surfaces free of dust",
+      "Corners free of cobwebs",
+      "Clean doors and skirting boards",
+      "Radiators without traces of dust",
+      "Cleaned chandeliers and light fixtures",
+      "Gleaming mirrors in every room",
+      "Kitchen cabinet fronts, sink and the wall next to the worktop / backsplash washed until they shine",
+      "Clean ventilation grilles, range hood washed on the outside",
+      "Bathrooms cleaned and all plumbing washed, including wall tiles",
+      "A perfect shower cabin, with even the chrome parts polished until they shine",
+      "Rubbish taken out, a new empty bag in a clean bin."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "You can also order:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Carpet dry cleaning — from 75 UAH/m²",
+      "Upholstered furniture dry cleaning — from 500 UAH per seat",
+      "Fridge cleaning — from 200 UAH",
+      "Freezer or oven cleaning — from 250 UAH each",
+      "Balcony cleaning — from 150 UAH",
+      "Second bathroom cleaning — from 500 UAH",
+      "Washing dishes — from 170 UAH/hour",
+      "Laundry and ironing — from 170 UAH/hour",
+      "Watering plants — from 50 UAH",
+      "Window cleaning — from 100 UAH/m²"
+     ]
+    }
+   ],
+   "steps": [
+    {
+     "h": "ORDER A CLEANING",
+     "p": "Call us or leave a request on the website. Tell us where you live and what needs to be done."
+    },
+    {
+     "h": "WAIT FOR THE SPECIALISTS",
+     "p": "Or leave a key so the cleaners can come in themselves with everything they need."
+    },
+    {
+     "h": "PAY FOR THE RESULT",
+     "p": "And enjoy your clean apartment."
+    }
+   ]
+  },
+  "regular": {
+   "meta": {
+    "title": "Regular apartment cleaning in Kyiv | iCleaning",
+    "desc": "Regular (daily, weekly) apartment cleaning in Kyiv and the region from iCleaning: price calculator, quality guarantee, a permanent specialist."
+   },
+   "h1": "Regular cleaning",
+   "sub": "Free yourself from household chores",
+   "price": "",
+   "hero": "reg-cleaning_2",
+   "sections": [
+    {
+     "t": "h",
+     "x": "The “Regular cleaning” service is better than an ordinary housekeeper!"
+    },
+    {
+     "t": "calc"
+    },
+    {
+     "t": "p",
+     "x": "*The price is for 1 cleaning when ordering 4 times a month."
+    },
+    {
+     "t": "p",
+     "x": "*The final cost of cleaning depends on its frequency:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "once a week: +0% to the preliminary price",
+      "once every 2 weeks: +10%",
+      "once every 3 weeks: +20%",
+      "once a month: +40%"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "First cleaning +50%"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Are you uncomfortable making the same remarks to your housekeeper over and over again?",
+      "Is it inconvenient to adjust to when and how it suits HER to tidy up your home?",
+      "Worried that if you let her go you'll have to spend time looking for a new housekeeper and repeat all your requirements again?"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Advantages of the comprehensive solution from iCleaning:"
+    },
+    {
+     "t": "p",
+     "x": "High service quality that takes into account the individual specifics of the premises and the client's wishes:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "All of the client's requirements are put into a detailed “terms of reference” or checklist, which you use to accept the specialist's work at the end of the cleaning.",
+      "Our specialists know that every surface and material requires a special cleaning technique, special products and the right tools.",
+      "Thanks to our continuous quality improvement system, we strive to exceed your expectations."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "Punctuality and availability at a time that suits you:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "You choose when it is convenient for you to have your home put in order, and our specialist arrives right on time.",
+      "If your plans change, you can cancel or reschedule the specialist's visit to another suitable time."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "Convenient communication:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Every client is assigned a personal assistant who is in touch almost 24 hours a day, 7 days a week.",
+      "You can leave your wishes, remarks and thanks through any channel convenient for you: phone, Viber, e-mail or Facebook."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "If you have more rooms than listed in the table or need a different cleaning frequency, please leave a request. A manager will contact you shortly and make an individual calculation."
+    },
+    {
+     "t": "cta",
+     "x": "trial"
+    },
+    {
+     "t": "h",
+     "x": "Regular cleaning means:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Dry cleaning of carpets with the client's vacuum cleaner, use of the company's vacuum cleaner — 500 UAH/month",
+      "Dry and wet floor cleaning (with a mop)",
+      "All surfaces free of dust",
+      "Washed and wiped window sills and outer surfaces of radiators",
+      "Removal of cobwebs",
+      "Doors and skirting boards wiped dry",
+      "Clean mirrors in every room",
+      "Kitchen cabinet fronts, sink and the wall next to the worktop / backsplash washed until they shine",
+      "Bathroom cleaning and washing of all plumbing, additional bathroom +250 UAH",
+      "Clean switches and sockets",
+      "Chandeliers and light fixtures free of dust (we use a duster)",
+      "Ventilation grille free of dust",
+      "Rubbish taken out, a new empty bag in a clean bin."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "You can also order:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Balcony cleaning + 150 UAH",
+      "Second bathroom cleaning + 350 UAH",
+      "Cleaning inside the fridge + 350 UAH",
+      "Cleaning inside the oven + 400 UAH",
+      "Cleaning inside furniture + 50 UAH per item",
+      "Wet cleaning of chandeliers and light fixtures + 200 UAH per item",
+      "Washing dishes 350 UAH/hour",
+      "Laundry and ironing 350 UAH/hour",
+      "Watering plants from 75 UAH",
+      "Window cleaning 150 UAH/m²",
+      "Deep cleaning (for very dirty premises) + 2000 UAH",
+      "Carpet and upholstered furniture dry cleaning — 150 UAH/m²"
+     ]
+    }
+   ],
+   "steps": [
+    {
+     "h": "ORDER A TRIAL CLEANING",
+     "p": "Call us or leave a request on the website. Schedule the time of the first visit."
+    },
+    {
+     "h": "MEET THE SPECIALISTS",
+     "p": "Together with the manager, draw up an exact task map for your apartment, taking its features and nuances into account. Meet your cleaner."
+    },
+    {
+     "h": "EVALUATE THE QUALITY",
+     "p": "Check the quality of the work done. Add any changes to the task card."
+    },
+    {
+     "h": "SET THE CLEANING SCHEDULE",
+     "p": "Agree all the terms and the schedule of regular cleanings with the manager. Enjoy the cleanliness."
+    }
+   ]
+  },
+  "eco": {
+   "meta": {
+    "title": "Professional eco cleaning from iCleaning",
+    "desc": "Eco cleaning is professional cleaning with safe products and a Karcher steam generator. Safe cleanliness from iCleaning with a quality guarantee."
+   },
+   "h1": "Eco cleaning of apartments and houses",
+   "sub": "with a safety and quality guarantee",
+   "price": "",
+   "hero": "main1_1",
+   "sections": [
+    {
+     "t": "areacalc"
+    },
+    {
+     "t": "h",
+     "x": "A new addition to the family and lots of chores? We always have time to help you with the cleaning!"
+    },
+    {
+     "t": "p",
+     "x": "Order an eco cleaning with a 10% discount before your little one steps over the threshold of their home for the first time!"
+    },
+    {
+     "t": "p",
+     "x": "In modern society more and more people pay attention to a healthy lifestyle. It is no secret that our health directly depends on the environment we are in. Surprisingly, even ordinary dust can sometimes be the cause of poor well-being and even a bad mood! Just imagine what gets into our airways when we are in a dusty room: mold spores, bacteria, viruses, pollen — and that is far from the whole list. Of course, everyone now keeps a stock of household chemicals at home to fight pests, but we often do not even suspect that these products can do much more harm than good, especially if there are children or people sensitive to chemical irritants in the house."
+    },
+    {
+     "t": "p",
+     "x": "The main principle of our company is an individual approach to every client, taking all your requirements and wishes into account. That is why we have developed a cleaning program for you that will help bring flawless cleanliness to your home using only hypoallergenic and safe products."
+    },
+    {
+     "t": "p",
+     "x": "Who eco cleaning is suitable for:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Pregnant women",
+      "Children of any age",
+      "People sensitive to chemical irritants and people with allergies",
+      "Families with pets",
+      "People who care about their health and the environment"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "The equipment we use for eco cleaning:"
+    },
+    {
+     "t": "p",
+     "x": "For disinfecting and cleaning various surfaces we use a professional Karcher steam generator, whose working principle is to supply steam (140–160 °C) under pressure. This method not only effectively removes all types of dirt (even traces of paint after renovation) but also eliminates 99.9% of household bacteria. Today this is the best safe method of fighting dirt, which excludes the use of any chemicals. Every member of our team has a set of steam generator attachments, which allows effective cleaning of all types of surfaces and hard-to-reach places with water steam."
+    },
+    {
+     "t": "p",
+     "x": "When our work is done you enjoy:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Safe surfaces throughout the house (without allergens, dust mites, saprophytes, fungi or dangerous microorganisms)",
+      "Perfect cleanliness (no dust, limescale, old stains, streaks or grease)",
+      "Fresh and harmless air"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Please leave a request. A manager will contact you shortly and make an individual calculation."
+    },
+    {
+     "t": "h",
+     "x": "After eco cleaning you get:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Safe surfaces (without dust, allergens, fungi, mold, grease residue and dirt).",
+      "Dry cleaning of carpets with a vacuum cleaner.",
+      "Dry and wet floor cleaning (with a mop).",
+      "Washed and wiped window sills and outer surfaces of radiators",
+      "Removal of cobwebs",
+      "Doors and skirting boards wiped dry",
+      "Clean mirrors in every room",
+      "Kitchen cabinet fronts, sink and the wall next to the worktop / backsplash washed until they shine",
+      "Bathroom cleaning and washing of all plumbing, additional bathroom +500 UAH",
+      "Clean switches and sockets",
+      "Chandeliers and light fixtures free of dust (we use a duster)",
+      "Rubbish taken out, a new empty bag in a clean bin."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "You can also order:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Balcony cleaning + 100 UAH",
+      "Second bathroom cleaning + 500 UAH",
+      "Cleaning inside the fridge + 200 UAH",
+      "Cleaning inside the oven + 250 UAH",
+      "Cleaning inside furniture + 25 UAH per item",
+      "Wet cleaning of chandeliers and light fixtures + 100 UAH per item",
+      "Washing dishes from 170 UAH/hour",
+      "Laundry and ironing from 170 UAH/hour",
+      "Watering plants from 50 UAH",
+      "Window cleaning from 100 UAH/m²",
+      "Deep cleaning (for very dirty premises) + 1500 UAH",
+      "Carpet and upholstered furniture dry cleaning — from 75 UAH/m²"
+     ]
+    }
+   ],
+   "steps": [
+    {
+     "h": "ORDER A TRIAL CLEANING",
+     "p": "Call us or leave a request on the website. Schedule the time of the first visit."
+    },
+    {
+     "h": "MEET THE SPECIALISTS",
+     "p": "Together with the manager, draw up an exact task map for your apartment, taking its features and nuances into account. Meet your cleaner."
+    },
+    {
+     "h": "EVALUATE THE QUALITY",
+     "p": "Check the quality of the work done. Add any changes to the task card."
+    },
+    {
+     "h": "SET THE CLEANING SCHEDULE",
+     "p": "Agree all the terms and the schedule of regular cleanings with the manager. Enjoy the cleanliness."
+    }
+   ]
+  },
+  "repair": {
+   "meta": {
+    "title": "Post-renovation cleaning in Kyiv: apartments, premises, houses, cottages | iCleaning",
+    "desc": "Professional general cleaning after renovation in Kyiv, prices for cottages, houses, apartments and premises — only good reviews and pleasant prices."
+   },
+   "h1": "Post-renovation cleaning in Kyiv",
+   "sub": "from 70 UAH per m²",
+   "price": "",
+   "hero": "remont2",
+   "sections": [
+    {
+     "t": "p",
+     "x": "Spare yourself from sifting through dust, debris, sawdust and paint — all in one click. A manager will visit you to draw up a detailed action plan and determine the time needed to clean the apartment/house/cottage after renovation. Our staff will clean any surfaces and materials with skillfully chosen products."
+    },
+    {
+     "t": "p",
+     "x": "The cost of post-renovation cleaning is from 70 UAH per m². The cost may increase due to the complexity of the work and the degree of contamination."
+    },
+    {
+     "t": "h",
+     "x": "Every post-renovation cleaning means:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "No construction dust at all",
+      "Floors, window sills, skirting boards, radiators and pipes washed thoroughly",
+      "Clean facades, outer and inner surfaces of furniture",
+      "Clean sockets and switches",
+      "Upholstered furniture and household appliances free of dust",
+      "Clean lighting fixtures (including crystal chandeliers)",
+      "Door units and fittings wiped",
+      "Clean, disinfected plumbing",
+      "Complete cleaning of bathtubs and shower cabins",
+      "A clean balcony",
+      "Washed ceramic tiles, clean glass and mirror surfaces",
+      "Clean surfaces of the fridge, microwave, dishwasher, kettle, etc."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Window cleaning can be ordered in addition — from 100 UAH/m"
+    }
+   ],
+   "steps": [
+    {
+     "h": "ORDER A CLEANING",
+     "p": "Call us or leave a request on the website. Tell us where you live and what needs to be done."
+    },
+    {
+     "h": "A MANAGER WILL VISIT YOU",
+     "p": "They will estimate the amount of work, the time it takes and the specialists and equipment needed."
+    },
+    {
+     "h": "WAIT FOR THE SPECIALISTS",
+     "p": "Or leave a key so the cleaners can come in themselves with everything they need."
+    },
+    {
+     "h": "PAY FOR THE RESULT",
+     "p": "Enjoy a clean apartment, ready to move into."
+    }
+   ]
+  },
+  "dryclean": {
+   "meta": {
+    "title": "Upholstered furniture and carpet dry cleaning at home in Kyiv | iCleaning",
+    "desc": "Professional carpet and upholstered furniture dry cleaning at home — only good reviews and pleasant prices!"
+   },
+   "h1": "Carpet and upholstered furniture dry cleaning",
+   "sub": "from 75 UAH/m²",
+   "price": "",
+   "hero": "mebel",
+   "sections": [
+    {
+     "t": "p",
+     "x": "Summer is the perfect time for dry cleaning carpets and upholstered furniture. We recommend ordering dry cleaning for a warm, sunny day when the air temperature is above 20 degrees and humidity is below 50% — this speeds up drying as much as possible. We quickly and thoroughly dry clean carpets, carpeting and upholstered furniture at your home."
+    },
+    {
+     "t": "h",
+     "x": "Carpet dry cleaning — from 75 UAH/m²."
+    },
+    {
+     "t": "p",
+     "x": "Upholstered furniture dry cleaning — from 500 UAH per seat."
+    },
+    {
+     "t": "p",
+     "x": "Single mattress dry cleaning (both sides) — from 900 UAH."
+    },
+    {
+     "t": "p",
+     "x": "Double mattress dry cleaning (both sides) — from 1200 UAH."
+    },
+    {
+     "t": "p",
+     "x": "We come out for a minimum order of 1500 UAH."
+    },
+    {
+     "t": "h",
+     "x": "We can also:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Remove stubborn stains",
+      "Remove strong unpleasant odors (urine, animal smells, mold)",
+      "Clean your apartment thoroughly",
+      "Clean a house/apartment/cottage/premises after renovation",
+      "Wash windows",
+      "Provide any other cleaning services."
+     ]
+    }
+   ],
+   "steps": [
+    {
+     "h": "ORDER A CLEANING",
+     "p": "Call us or leave a request on the website. Tell us where you live and what needs to be done."
+    },
+    {
+     "h": "WAIT FOR THE SPECIALISTS",
+     "p": "Or leave a key so the cleaners can come in themselves with everything they need."
+    },
+    {
+     "h": "PAY FOR THE RESULT",
+     "p": "And enjoy the cleanliness."
+    }
+   ]
+  },
+  "windows": {
+   "meta": {
+    "title": "Window cleaning in Kyiv, prices for window cleaning services | iCleaning",
+    "desc": "Cleaning of windows (shop windows) in an apartment or office in Kyiv — only good reviews and affordable prices. Post-renovation window cleaning is possible."
+   },
+   "h1": "Window cleaning",
+   "sub": "from 100 UAH per m²",
+   "price": "",
+   "hero": "okna",
+   "sections": [
+    {
+     "t": "p",
+     "x": "It is always nicer to look out of a window when it is clear."
+    },
+    {
+     "t": "p",
+     "x": "Upon your request we will wash your windows quickly and thoroughly at any time convenient for you."
+    },
+    {
+     "t": "h",
+     "x": "Cleaning costs from 100 UAH per m²."
+    },
+    {
+     "t": "p",
+     "x": "We come out for a minimum order of 1200 UAH."
+    },
+    {
+     "t": "h",
+     "x": "Window cleaning with iCleaning means:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Windows clean inside and out",
+      "Removal of paint and cement traces from windows",
+      "Thoroughly washed window frames",
+      "Clean window sills, ebb flashings and window hardware"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "You can also order:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Carpet dry cleaning — from 75 UAH/m²",
+      "Upholstered furniture dry cleaning — from 500 UAH per seat",
+      "Apartment cleaning",
+      "General cleaning after renovation",
+      "Regular cleaning — from 600 UAH",
+      "Other cleaning services"
+     ]
+    }
+   ],
+   "steps": [
+    {
+     "h": "ORDER A CLEANING",
+     "p": "Call us or leave a request on the website. Tell us where you live and what needs to be done."
+    },
+    {
+     "h": "A MANAGER WILL VISIT YOU",
+     "p": "They will estimate the amount of work, the time it takes and the specialists and equipment needed."
+    },
+    {
+     "h": "WAIT FOR THE SPECIALISTS",
+     "p": "Or leave a key so the cleaners can come in themselves with everything they need."
+    },
+    {
+     "h": "PAY FOR THE RESULT",
+     "p": "Enjoy a clean apartment, ready to move into."
+    }
+   ]
+  }
+ },
+ "faq": {
+  "meta": {
+   "title": "FAQ — frequently asked questions | iCleaning",
+   "desc": "Answers to frequently asked questions about cleaning from iCleaning."
+  },
+  "h1": "Frequently asked questions",
+  "items": [
+   {
+    "q": "How much does cleaning cost?",
+    "a": "General cleaning — from 75 UAH per m², post-renovation cleaning — from 70 UAH per m², window cleaning — from 100 UAH per m², carpet dry cleaning — from 75 UAH per m². The price of regular cleaning depends on the number of rooms, extras and frequency — you can calculate it with the calculator on the service page."
+   },
+   {
+    "q": "Is there a minimum order?",
+    "a": "We come out for window cleaning for a minimum order of 1200 UAH, and for dry cleaning for a minimum order of 1500 UAH."
+   },
+   {
+    "q": "What if I don't like the result?",
+    "a": "If you have any remarks, we will come back and fix the problems free of charge. After each cleaning you also rate the cleaners' work on a five-point scale."
+   },
+   {
+    "q": "When can I order a cleaning?",
+    "a": "You can order a cleaning of any complexity on any day of the week from 00:00 to 24:00. Online requests are accepted around the clock, and by phone we work every day from 9:00 to 19:00."
+   },
+   {
+    "q": "Do I need to be at home during the cleaning?",
+    "a": "No, you can leave a key — the cleaners will come in themselves with everything they need."
+   },
+   {
+    "q": "Do you bring cleaning products and equipment?",
+    "a": "Yes. The cleaners bring professional cleaning products with them; we have a full range of hypoallergenic products and professional equipment."
+   },
+   {
+    "q": "Which areas do you serve?",
+    "a": "We work in Kyiv and the Kyiv region."
+   },
+   {
+    "q": "How often can I order regular cleaning?",
+    "a": "Once a week, once every 2 weeks, once every 3 weeks or once a month. The price is for 1 cleaning when ordering 4 times a month; for less frequent cleaning surcharges apply (+10%, +20%, +40%), and the first cleaning costs 50% more."
+   },
+   {
+    "q": "What is eco cleaning?",
+    "a": "It is cleaning using only hypoallergenic and safe products and a professional Karcher steam generator. It is suitable for pregnant women, children, people with allergies and families with pets."
+   },
+   {
+    "q": "How do I place an order?",
+    "a": "Call us or leave a request on the website: tell us where you live and what needs to be done. A manager will contact you and agree the details."
+   }
+  ]
+ },
+ "info": {
+  "meta": {
+   "title": "Articles about professional cleaning | iCleaning",
+   "desc": "Articles about professional cleaning"
+  },
+  "h1": "Info center",
+  "lead": "Articles about professional cleaning"
+ },
+ "thanks": {
+  "meta": {
+   "title": "Thank you for your request | iCleaning",
+   "desc": ""
+  },
+  "h1": "Thank you for your request",
+  "p": "Your request has been sent. A manager will call you back shortly.",
+  "link": "You can go to the home page of our website."
+ },
+ "posts": {
+  "child": {
+   "title": "Cleaning rules when there is a small child at home: eco cleaning",
+   "date": "2024-01-16",
+   "desc": "Eco cleaning for a healthy stay of your baby at home, followed by iCleaning's specially trained home eco-care specialists.",
+   "seo": "Eco cleaning when there is a small child at home",
+   "body": [
+    {
+     "t": "p",
+     "x": "Why do we need eco cleaning? The arrival of a child in the family is a special joy and responsibility. “Keeping the house clean” — for many young parents these words take on a new meaning. After all, the smaller the baby, the more vulnerable the little body. We often hear that a child has a stuffy nose or complaints that the child is often ill. All sorts of things are blamed: viruses, colds, teething. But a visit to the doctor is not enough to find the cause of the trouble. It is important to carry out an ecological examination of the apartment. The cause may be invisible to the eye but noticeable to a small body — house dust, fungus, mold."
+    },
+    {
+     "t": "img"
+    },
+    {
+     "t": "p",
+     "x": "First of all, pay attention to the ecology of the children's room, because this is where the child spends most of the time."
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Furniture and decoration should be made of the most natural materials possible. Artificial substitutes can be toxic and cause unexpected allergies.",
+      "Every nursery must have large, bright windows that can be opened for regular airing.",
+      "The fewer soft toys, fluffy (currently popular) blankets, bedspreads and rompers that collect dust and become carriers of germs, the healthier your baby will be."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "But how can we do without all this? Carpets give us comfort, and in the cold season warmth too. The baby is learning to crawl and taking first steps, so it must be safe and comfortable. And toys — loved ones so like to give them. How can you deprive relatives of the joy of presenting a huge teddy bear for the baby's first birthday? And how many positive emotions it gives a child to ride a plush horse or cuddle a toy panda cub of real size!"
+    },
+    {
+     "t": "p",
+     "x": "Soft toys, sofas, carpets and even walls accumulate dust and the tiniest particles of our everyday life (clothes, toys, newspapers). When we vacuum, these microparticles are dispersed and settle on the surfaces of our interior and on our belongings."
+    },
+    {
+     "t": "p",
+     "x": "Consequently, a constant companion in our home and the cause of many diseases is dust. We tirelessly try to fight it. But while for some it is only a nuisance and an inconvenience, for a small child dust is often a source of illness. Why does this happen? Bacteria and viruses cannot fly on their own, and dust lifts them into the air. It is a kind of “flying boat” for disease-causing agents. Besides, dust itself can cause allergies."
+    },
+    {
+     "t": "h",
+     "x": "What should you do?"
+    },
+    {
+     "t": "p",
+     "x": "Prepare the apartment for the baby's arrival and clean it properly. For this there is an eco cleaning algorithm for a comfortable and healthy stay of the baby in the apartment, followed by iCleaning's professionally trained home eco-care specialists."
+    },
+    {
+     "t": "h",
+     "x": "What is eco cleaning?"
+    },
+    {
+     "t": "p",
+     "x": "First of all, you need to remove dust from surfaces very delicately and competently and achieve cleanliness without chemicals. Non-toxic professional organic-based products can help. A must is the use of microfiber, excluding rags and wipes that shed dust, as well as anything with any impregnation (antibacterial or chemical)."
+    },
+    {
+     "t": "p",
+     "x": "An excellent alternative to household chemicals is universal cleaning products such as vinegar, lemon and baking soda."
+    },
+    {
+     "t": "p",
+     "x": "For example, you can disinfect children's toys in soapy water with a small amount of white distilled vinegar."
+    },
+    {
+     "t": "p",
+     "x": "You can get rid of mold and soap scum in the bathroom or shower by wiping the surface with the same undiluted vinegar and then rinsing with water."
+    },
+    {
+     "t": "p",
+     "x": "And if after renovation you need to wash floors without streaks — one glass of vinegar per liter of water guarantees cleanliness and shine."
+    },
+    {
+     "t": "p",
+     "x": "An ordinary lemon will help you wash dirty kitchen countertops. Cut it in half and sprinkle a spoonful of baking soda on it. And while this mixture is fizzing, start wiping."
+    },
+    {
+     "t": "p",
+     "x": "These remedies probably take a little more time. But they are completely ecological and do not cause allergies. iCleaning's professionally trained home eco-care specialists can save you time and effort by using only eco products and eco chemistry. They will thoroughly and quickly remove the sources of contamination in your home and create a good environment for the healthy development of your baby."
+    }
+   ]
+  },
+  "fridge": {
+   "title": "Smell in the fridge? Top 7 ways to get rid of it",
+   "date": "2024-01-16",
+   "desc": "7 ways to get rid of the smell in the fridge: want to quickly and permanently remove an unpleasant smell from your fridge? Follow iCleaning's advice!",
+   "seo": "Smell in the fridge? 7 ways to get rid of it!",
+   "body": [
+    {
+     "t": "p",
+     "x": "Every kitchen has a fridge. Whether it is an apartment or an office, it tirelessly keeps food fresh. But one day, when we open the door, we want to close it again very quickly. The reason is an unpleasant smell in the fridge."
+    },
+    {
+     "t": "img"
+    },
+    {
+     "t": "h",
+     "x": "So what should you do to get rid of the smell in the fridge?"
+    },
+    {
+     "t": "p",
+     "x": "First of all, you need to understand the cause of this phenomenon, because your fridge most often smells for the following reasons:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Improper food storage. Cover pots, jars and containers with a lid or cling film. Try not to forget about foods that give off a far-from-pleasant aroma when they spoil.",
+      "The fridge was bought recently. Its walls still have the tiniest plastic particles and the smell of machine oil and metal. In this case it is enough to wash the appliance thoroughly inside and out, wiping all the shelves and fittings. You can use a baking soda solution or a weak ammonia solution (five drops per liter of water). Then wait a little while the smell airs out."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "Now that we understand the cause, let's try to eliminate it with the simplest and most effective methods."
+    },
+    {
+     "t": "p",
+     "x": "We will consider only organic remedies, which are used by iCleaning's home eco-care specialists, because the fridge is a place of contact with food. It is not advisable to use chemicals here so as not to harm your health."
+    },
+    {
+     "t": "h",
+     "x": "1. Vinegar."
+    },
+    {
+     "t": "p",
+     "x": "In first place is the “king” of cleaning — vinegar."
+    },
+    {
+     "t": "p",
+     "x": "Take out all the food and wipe the walls, shelves and fittings thoroughly. To do this, dilute 9% vinegar with water in a ratio of one to one and wash the whole fridge with the solution. Pay special attention to the drain and the seal. This simple and inexpensive method will rid you not only of the unpleasant smell in the fridge but also kill up to 90% of all bacteria, germs and mold. If you are worried about the specific smell of vinegar — it is not a problem. Even if you don't wipe the treated surface dry, the vinegar will evaporate without a trace in a couple of hours."
+    },
+    {
+     "t": "h",
+     "x": "2. Ammonia."
+    },
+    {
+     "t": "p",
+     "x": "Second place goes to ammonia."
+    },
+    {
+     "t": "p",
+     "x": "Dilute a teaspoon of ammonia in a liter of water, mix and wipe your fridge well with the solution. Thanks to the alcohol, no streaks are left on the surface, it dissolves grease well and washes away the germs that cause the unpleasant smell in the fridge."
+    },
+    {
+     "t": "h",
+     "x": "3. Baking soda."
+    },
+    {
+     "t": "p",
+     "x": "Effective against fungi and excellent at absorbing odors, baking soda rightfully takes the next place. First, wash your fridge with a water solution — two tablespoons of soda per liter of water. Then pour some soda into a small container and put it in the fridge, changing it once every three months."
+    },
+    {
+     "t": "h",
+     "x": "4. Lemon juice."
+    },
+    {
+     "t": "p",
+     "x": "Lemon juice will help fill the appliance with freshness. Squeeze a little from a lemon and moisten a cloth. Wipe thoroughly, then cut a lemon (or an orange) into wedges and put them on a saucer, leaving them for 2–3 days. Lemon is especially effective at removing the smell of fish."
+    },
+    {
+     "t": "p",
+     "x": "If you have a small child or your schedule is booked minute by minute and there is no time to wash the fridge thoroughly, iCleaning's home eco-care specialists will definitely help you with this."
+    },
+    {
+     "t": "p",
+     "x": "Now that your fridge has already been washed, open its door for a couple of hours to air it out well. And if a little smell remains in the fridge, the following will help eliminate it:"
+    },
+    {
+     "t": "h",
+     "x": "5. Activated charcoal."
+    },
+    {
+     "t": "p",
+     "x": "Crush 30–40 tablets, put them on a saucer and leave in the fridge until the smell is gone (5 days at most). It is worth noting that some housewives always keep charcoal on the shelf as a preventive measure. And not in vain, since charcoal is part of many odor absorbers sold in stores."
+    },
+    {
+     "t": "h",
+     "x": "6. Rice, salt and sugar."
+    },
+    {
+     "t": "p",
+     "x": "They can also be put on a saucer and placed in the fridge. To prevent unpleasant smells, change them every few days."
+    },
+    {
+     "t": "h",
+     "x": "7. Raw potatoes."
+    },
+    {
+     "t": "p",
+     "x": "A natural adsorbent is peeled raw potato and an onion cut into several pieces. Lay these foods in the corners of the fridge on paper napkins or saucers and change them every 2–3 days."
+    },
+    {
+     "t": "p",
+     "x": "And remember, a stale smell in the fridge is not only unpleasant: all the food gets saturated with it, which is especially dangerous for your health. Keep things clean and live healthy!"
+    }
+   ]
+  },
+  "bath": {
+   "title": "Secrets of eco-friendly bathroom cleaning",
+   "date": "2024-01-16",
+   "desc": "Safe cleaning in the bathroom? Not sure where to start? iCleaning specialists will tell you the rules of eco-friendly bathroom cleaning.",
+   "seo": "Secrets of eco-friendly bathroom cleaning",
+   "body": [
+    {
+     "t": "p",
+     "x": "How do you clean the bathroom so that no streaks are left on the shower cabin and the tiles shine like new? How do you clean without harming your health?"
+    },
+    {
+     "t": "p",
+     "x": "If you have small children, allergy sufferers, pregnant or breastfeeding women at home, or you simply care about your health, eco-friendly bathroom cleaning is exactly what you need. There are several ways to do it."
+    },
+    {
+     "t": "p",
+     "x": "The cheapest and simplest way is to tidy up with what you always have in the house (lemon, salt, vinegar). Steam and organic household chemicals are also safe and effective."
+    },
+    {
+     "t": "img"
+    },
+    {
+     "t": "h",
+     "x": "Rules of eco-friendly bathroom cleaning"
+    },
+    {
+     "t": "p",
+     "x": "When you start cleaning, it is important to remember the “golden” rule of professional cleaning: wash and clean from top to bottom and from the inside out (first wash the inner surfaces, then the outer ones, which are less dirty)."
+    },
+    {
+     "t": "p",
+     "x": "That is why you should clean the walls first. Traces of limescale are often visible on them. To remove them easily and quickly, use a vinegar solution. You can read how to prepare it in the article “Cleaning rules when there is a small child at home: eco cleaning”. And to fix the result, just wipe the surface with a microfiber cloth."
+    },
+    {
+     "t": "p",
+     "x": "If the grout between the tiles has become dirty, an ordinary toothbrush with baking soda (or vinegar, toothpaste, fine kitchen salt) will help you. Never use soap to clean grout — it promotes the spread of mold spores. Re-grouting takes time and effort. To save them and relax in a professionally cleaned bath afterwards, contact iCleaning's home eco-care specialists. They will put everything in order quickly and thoroughly."
+    },
+    {
+     "t": "p",
+     "x": "When your walls shine like new, it is time to wash the bathtub. Today the most common ones are cast-iron, steel and acrylic tubs. But how should they be cared for properly? Modern acrylic tubs are the most delicate. It is best to wash their surface with a soft sponge and liquid soap. If there is a small child in the house, baby soap is better than household soap. And warm table vinegar or lemon juice will easily remove rust-water stains from the surface."
+    },
+    {
+     "t": "p",
+     "x": "And so as not to destroy the enamel layer of a cast-iron or steel tub, do not remove stubborn dirt from the surface with sand, sharp objects or alkali."
+    },
+    {
+     "t": "p",
+     "x": "If you own a shower cabin, which is so prone to deposits from hard water, vinegar will help. It is a universal and inexpensive product. Thanks to its acetic acid content it is a powerful disinfectant. It “kills” harmful bacteria such as salmonella, E. coli and the agents of dysentery. So take ¼ cup of vinegar, 2 cups of water and half a teaspoon of an organic cleaning product. Shake in a spray bottle and clean with pleasure. When finished, wipe with a microfiber cloth."
+    },
+    {
+     "t": "p",
+     "x": "Next in line for cleanliness is the sink. Yellow stains often form on it from water and soap. Removing them is very easy. Mix a small amount of warm vinegar with one or two pinches of table salt. Apply this to a washcloth and rub. A little effort and the sink is like new. The toilet can be washed the same way."
+    },
+    {
+     "t": "p",
+     "x": "An integral part of the bathroom is the plumbing fixtures. To restore their mirror-like cleanliness, use toothpaste. Apply it to a sponge and rub. You can also make taps shine with a lemon wedge, and then wipe them dry with a microfiber cloth."
+    },
+    {
+     "t": "p",
+     "x": "If mold has appeared in your bathroom, get rid of it as soon as possible. Its spores are toxic and cause allergies, and they affect children and the elderly most, whose bodies are the most susceptible. So just apply vinegar to the affected area, let it soak in and wash it off with an ordinary sponge. If you decide to fight mold, be sure to eliminate sources of moisture."
+    },
+    {
+     "t": "p",
+     "x": "When your bathtub is sparkling clean, it is time to finish the cleaning by washing the door and the floor. Read here how to do it properly."
+    },
+    {
+     "t": "p",
+     "x": "You can also clean the bathroom effortlessly with a steam cleaner. Dirt, rust and limescale on plumbing and walls are no match for it. Your mirror, toilet and bathtub will look like new after cleaning. But if you do not have this appliance at home, you do not have to spend money on buying one. It is enough to invite iCleaning's home eco-care specialists, who with their professional equipment and hypoallergenic certified organic household chemicals will clean the farthest corners of the bathroom. They will also teach the lady of the house how to clean your own bathroom correctly and as quickly as possible."
+    },
+    {
+     "t": "p",
+     "x": "As you can see, it is possible to make your home clean with inexpensive, simple and harmless products. iCleaning's professionally trained home eco-care specialists use natural and proven products in their work. Save time and effort — trust the professionals, and your bathroom will take on a new life. And you will have more time to spend with your loved ones."
+    }
+   ]
+  },
+  "linen": {
+   "title": "8 tips for choosing children's bedding",
+   "date": "2024-01-16",
+   "desc": "Choosing children's bedding often seems a difficult task. iCleaning's tips will help you make the right choice.",
+   "seo": "8 tips for choosing children's bedding",
+   "body": [
+    {
+     "t": "p",
+     "x": "Healthy sleep is the key to your child's physical and emotional health. To a large extent it depends on choosing the right bedding. It would seem such a small thing, but it is bed linen that affects your baby's mood throughout the day — and therefore yours too."
+    },
+    {
+     "t": "img"
+    },
+    {
+     "t": "p",
+     "x": "When choosing bedding for your child, follow these rules"
+    },
+    {
+     "t": "h",
+     "x": "1. Quality of fabric"
+    },
+    {
+     "t": "p",
+     "x": "First of all, pay attention to the fabric the bedding is made of. To avoid provoking allergies from an early age, choose natural materials — satin, chintz, calico. The manufacturer usually states the fabric composition on the label."
+    },
+    {
+     "t": "p",
+     "x": "When choosing bedding for newborns, remember that at first it will be washed especially often, so it must be durable. That is why satin linen suits best. It is stronger than calico and very soft, which is important for the baby's delicate skin."
+    },
+    {
+     "t": "h",
+     "x": "2. Durability of the material"
+    },
+    {
+     "t": "p",
+     "x": "Poor-quality fabric quickly “loses its look”, becomes thinner and begins to show through. Pay attention to the density of the material, which the manufacturer usually indicates on the label in grams per square meter. The higher it is, the better, of course."
+    },
+    {
+     "t": "h",
+     "x": "3. Color"
+    },
+    {
+     "t": "p",
+     "x": "According to psychologists, the color of your child's bedding largely determines the child's psychological state and the quality of sleep. So when choosing linen for a baby, look at items in calm and natural shades. Never use the acid colors that are popular today — they have an exciting effect on the nervous system of a small child. Ideal choices are soft blue, pink, green and beige with unobtrusive pictures of teddy bears, elephants and the like. In short, those that will attract the baby's attention and help them get to know the world."
+    },
+    {
+     "t": "p",
+     "x": "If you are choosing bedding for an older child, take the following into account:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Blue bedding suits an active child. This color helps relieve the emotional tension accumulated during the day.",
+      "Bedding in soft shades reminiscent of tasty treats — cinnamon, chocolate and caramel — should be chosen for those who eat poorly or refuse breakfast altogether. Psychologists say that after using bedding of this color for a month, the result will not keep you waiting and the child's appetite will return.",
+      "Be careful with purple linen. This color depresses the nervous system and can provoke a bad mood.",
+      "Avoid dark, gloomy colors in your choice, giving preference to colorful and cheerful shades that will help your child develop their imagination."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "4. Dyeing method"
+    },
+    {
+     "t": "p",
+     "x": "Choose items dyed with natural dyes. They do not fade, do not cause allergies and will not stain the baby's skin during sleep. You can recognize chemical dye by sniffing the item — it has an unpleasant smell."
+    },
+    {
+     "t": "h",
+     "x": "5. The seam the fabric is sewn with"
+    },
+    {
+     "t": "p",
+     "x": "Quality linen is made with a flat-felled seam. Also pay attention to the edges. They must be hemmed."
+    },
+    {
+     "t": "h",
+     "x": "6. Size of the bedding"
+    },
+    {
+     "t": "p",
+     "x": "A comfortable bed is the key to your child's healthy sleep. That is why choose linen by size, so that extra ends do not bunch up or hang down to the floor collecting unnecessary dust."
+    },
+    {
+     "t": "h",
+     "x": "7. Safety in bed"
+    },
+    {
+     "t": "p",
+     "x": "When choosing linen for the youngest, pay attention to the duvet cover fastening. They come in different kinds — zippers, Velcro, buttons. Some do not fasten at all. Those suit older children. For babies, it is safe to buy items with a side zipper, so that they do not get tangled or swallow buttons."
+    },
+    {
+     "t": "h",
+     "x": "8. Bedding for the age"
+    },
+    {
+     "t": "p",
+     "x": "Respect your child's preferences. Choose bedding according to their age and interests. If a boy loves a cartoon about cars, give him joy by buying bedding with his favorite characters. In that case, going to bed, the child will feel comfortable and protected, which will contribute to sound sleep."
+    },
+    {
+     "t": "p",
+     "x": "Be attentive when choosing bedding for your child. And do not forget that, according to research by the British Daily Mail, the bed is the dirtiest place in your home. For this very reason 34% of Britons face allergy symptoms. So, to keep your child healthy, change the bedding at least once a week and periodically deep-clean the mattress the baby sleeps on. If you lack time or resources, iCleaning's professionally trained eco-care specialists will help you with this. Call (067) 327-34-32 and in just a few hours your home will be clean and healthy!"
+    }
+   ]
+  },
+  "plants": {
+   "title": "Useful houseplants, or how to survive in a metropolis",
+   "date": "2024-01-16",
+   "desc": "Houseplants — which of them are useful specifically for a city apartment? It turns out a flower can protect you from the flu, relieve stress and improve your health.",
+   "seo": "Useful houseplants",
+   "body": [
+    {
+     "t": "p",
+     "x": "When buying houseplants for our home, we usually pay attention to their beauty and how they match the interior. But we do not always think about the benefit they will bring to our home. It turns out, though, that a flower can protect you from the flu, relieve stress and improve your health."
+    },
+    {
+     "t": "p",
+     "x": "The champion of room purification is chlorophytum. It is easy to care for and useful. It cleans polluted air superbly and absorbs formaldehyde, whose sources in an apartment are often tobacco smoke, gas stoves, scented candles and carpeting. If someone in the house is ill, chlorophytum will clear the room of harmful bacteria quite quickly. It is no accident that pests never attack it. And to strengthen the plant's cleaning properties, put a few activated charcoal tablets into the flower pot."
+    },
+    {
+     "t": "img"
+    },
+    {
+     "t": "p",
+     "x": "In winter you cannot do without a ficus. By releasing phytoncides, it will protect you from colds, humidify dry air and saturate it with oxygen. That is why it is best placed in the living room and the kitchen. The glossy leaves of a ficus hold a lot of dust, so they need to be wiped often. And experienced flower growers recommend not watering the plant in winter, only misting the leaves."
+    },
+    {
+     "t": "p",
+     "x": "The ideal flower for a bedroom is aloe. At night it purifies the air, releasing oxygen and absorbing carbon dioxide. And during the day it reduces static electricity in the apartment. Many people keep aloe at home for its medicinal properties. If you have caught a cold or have a headache, its juice will certainly help. And a washed leaf of the plant is useful when applied to a bleeding or infected wound."
+    },
+    {
+     "t": "p",
+     "x": "Geranium is an excellent antidepressant. It will help you relax during stress and overcome insomnia. Just put it in the bedroom. Requiring no special care, it will give you sound and peaceful sleep. And because geranium releases biologically active substances that kill staphylococci and streptococci, it disinfects the space, repels flies and absorbs dampness and fumes, so it will be especially useful in your kitchen."
+    },
+    {
+     "t": "p",
+     "x": "A true helper for the lady of the house is the begonia, familiar to many. This small bush with bright irregularly shaped flowers attracts dust excellently and humidifies the air. In addition, it destroys up to 80% of fungi and disease-causing microbes, reducing the effect of radiation from computers and household appliances."
+    },
+    {
+     "t": "p",
+     "x": "A real oxygen factory is sansevieria, or “mother-in-law's tongue”. The plant will rid your apartment of dryness and stuffiness and clear the air of unnecessary formaldehyde."
+    },
+    {
+     "t": "p",
+     "x": "And if you have recently done a renovation, iCleaning's professionally trained home eco-care specialists will definitely help you put things in order. You can read about the secrets of eco cleaning here."
+    },
+    {
+     "t": "p",
+     "x": "Even in a cleaned apartment, the smell from new building materials and furniture is simply unavoidable. People often try to remove it with artificial air fresheners, which have an adverse effect on the body, especially a child's. But there is a way out. A unique plant and natural filter is the peace lily (spathiphyllum). It is very undemanding and easy to care for. It is enough to put it in the apartment after renovation, and within a few days the fumes of acetone, ammonia and benzene and the smells from plaster and new furniture will be significantly reduced. The plant is so effective that in a one-room apartment a single pot is enough."
+    },
+    {
+     "t": "p",
+     "x": "To absorb the harmful fumes of linoleum and exhaust gases, the parlor palm (chamaedorea) will help you. Just a couple of plants can significantly improve the air quality in the apartment."
+    },
+    {
+     "t": "p",
+     "x": "To avoid getting sick, get a lemon tree or an eucalyptus. They release substances that reduce the number of disease-causing components in the air by almost half. And by relaxing the smooth muscles of the bronchi, they relieve spasms. That is why these plants are useful for asthmatics, and it is easy to breathe near them."
+    },
+    {
+     "t": "p",
+     "x": "Houseplants will bring you benefit only if they are clean and healthy. Dust is very harmful to flowers. It clogs the pores and hinders moisture evaporation and gas exchange, which disrupts the plants' absorption of carbon dioxide and the production of useful substances."
+    },
+    {
+     "t": "p",
+     "x": "To prevent this, flowers need proper care. First of all, to remove dust, wipe the plants with a damp sponge. Flowers with downy and folded leaves, and cacti, should be dusted with a brush. Then send the plant to the shower. Pots can be placed right in the bathtub and the leaves washed with a stream of water. And so that the soil in the pot is not washed out, cover it with polyethylene film."
+    },
+    {
+     "t": "p",
+     "x": "It is desirable to give your flowers a “bath day” at least once a month. But if you have a large winter garden or are busy with other things, iCleaning's eco-care specialists can help you quickly and thoroughly. Call (067) 327-34-32 and in just a few hours cleanliness will visit your home, and well-kept flowers will delight your eye."
+    },
+    {
+     "t": "p",
+     "x": "After all, we care about you and take care of the time and health of every client!"
+    }
+   ]
+  }
+ }
+}

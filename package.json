@@ -1,0 +1,13 @@
+{
+  "name": "icleaning-site",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "iCleaning — static multilingual site (uk, ru, en, es). No dependencies.",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "dev": "node build.mjs --serve",
+    "build": "node build.mjs",
+    "preview": "node build.mjs --serve"
+  }
+}

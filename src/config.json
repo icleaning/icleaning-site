@@ -1,0 +1,60 @@
+{
+  "site": {
+    "name": "iCleaning",
+    "domain": "https://icleaning.com.ua",
+    "basePath": "",
+    "phone": "+380673273432",
+    "phoneDisplay": "(067) 327-34-32",
+    "phoneTop": "+ 38 (067) 327 3432",
+    "facebook": "https://www.facebook.com/icleaning24",
+    "formEndpoint": "/send.php"
+  },
+  "langs": ["uk", "ru", "en", "es"],
+  "defaultLang": "uk",
+  "menuOrder": ["general", "regular", "eco", "repair", "dryclean", "windows"],
+  "slugs": {
+    "home":     {"uk": "", "ru": "", "en": "", "es": ""},
+    "general":  {"uk": "generalne-prybyrannya", "ru": "generalnaya-uborka-kvartir-kiev", "en": "general-cleaning", "es": "limpieza-general"},
+    "regular":  {"uk": "regulyarne-prybyrannya-kvartyr", "ru": "regulyarnaya-uborka-kiev", "en": "regular-cleaning", "es": "limpieza-regular"},
+    "eco":      {"uk": "eko-prybyrannya", "ru": "eko-uborka", "en": "eco-cleaning", "es": "limpieza-ecologica"},
+    "repair":   {"uk": "prybyrannya-pislya-remontu", "ru": "uborka-posle-remonta", "en": "post-renovation-cleaning", "es": "limpieza-post-obra"},
+    "dryclean": {"uk": "himchystka-kylymiv-ta-myakyh-mebliv", "ru": "himchistka-kiev", "en": "carpet-and-upholstery-cleaning", "es": "limpieza-alfombras-y-tapizados"},
+    "windows":  {"uk": "myjka-vikon", "ru": "moyka-okon-kiev", "en": "window-cleaning", "es": "limpieza-de-ventanas"},
+    "faq":      {"uk": "faq-uk", "ru": "faq", "en": "faq", "es": "faq"},
+    "info":     {"uk": "infoczentr", "ru": "infotsentr", "en": "infocenter", "es": "centro-de-informacion"},
+    "thanks":   {"uk": "dyakuyu-za-zayavku", "ru": "spasibo-za-zayavku", "en": "thank-you", "es": "gracias"}
+  },
+  "postSlugs": {
+    "child":  {"uk": "pravyla-prybyrannya-koly-v-budynku-malenka-dytyna-eko-prybyrannya", "ru": "kogda-v-dome-malenkiy-rebenok-eko-uborka", "en": "eco-cleaning-with-a-small-child-at-home", "es": "limpieza-ecologica-con-un-bebe-en-casa"},
+    "fridge": {"uk": "zapah-u-holodylnyku-top-7-zasobiv-dlya-ryatuvannya", "ru": "zapah-v-holodilnike", "en": "fridge-smell-top-7-remedies", "es": "mal-olor-en-la-nevera-7-remedios"},
+    "bath":   {"uk": "sekrety-eko-prybyrannya-vannoyi-kimnaty", "ru": "sekretyi-eko-uborki-vannoy-komnatyi", "en": "secrets-of-eco-friendly-bathroom-cleaning", "es": "secretos-de-limpieza-ecologica-del-bano"},
+    "linen":  {"uk": "8-porad-yak-obraty-dytyachu-postilnu-bilyznu", "ru": "8-sovetov-kak-vyibrat-detskoe-postelnoe-bele", "en": "8-tips-for-choosing-childrens-bedding", "es": "8-consejos-para-elegir-ropa-de-cama-infantil"},
+    "plants": {"uk": "korysni-kimnatni-roslyny-chy-yak-vyzhyty-u-megapolisi", "ru": "poleznyie-komnatnyie-rasteniya-ili-kak-vyizhit-v-megapolise", "en": "useful-houseplants-how-to-survive-in-a-metropolis", "es": "plantas-de-interior-utiles-para-sobrevivir-en-la-ciudad"}
+  },
+  "postOrder": ["child", "fridge", "bath", "linen", "plants"],
+  "postImages": {"child": "child.jpg", "fridge": "fridge.jpg", "bath": "bath.jpg", "linen": "linen.jpg", "plants": "plants.jpg"},
+  "calc": {
+    "currency": "UAH",
+    "rooms": [900, 1150, 1400, 1800, 2300],
+    "extras": [
+      {"id": "bath2", "price": 350},
+      {"id": "balcony", "price": 150},
+      {"id": "pet", "price": 100},
+      {"id": "linen", "price": 75},
+      {"id": "plants", "price": 75},
+      {"id": "fridge", "price": 350},
+      {"id": "oven", "price": 400},
+      {"id": "microwave", "price": 200},
+      {"id": "dishes", "price": 350, "perHour": true},
+      {"id": "ironing", "price": 350, "perHour": true}
+    ],
+    "frequency": [
+      {"id": "week", "surcharge": 0},
+      {"id": "two", "surcharge": 0.1},
+      {"id": "three", "surcharge": 0.2},
+      {"id": "month", "surcharge": 0.4}
+    ],
+    "firstCleaningSurcharge": 0.5,
+    "area": {"rate": 75, "from": 40, "to": 200, "step": 10, "specialists": {"40": 1, "50": 1, "60": 1, "70": 2, "80": 2, "90": 2, "100": 3, "110": 3, "120": 3, "130": 3, "140": 3, "150": 3, "160": 3, "170": 4, "180": 4, "190": 4, "200": 4}}
+  }
+}

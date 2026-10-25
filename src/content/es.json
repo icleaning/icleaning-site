@@ -1,0 +1,1412 @@
+{
+ "lang": "es",
+ "htmlLang": "es",
+ "label": "ES",
+ "name": "Español",
+ "locale": "es_ES",
+ "ui": {
+  "nav": {
+   "home": "Inicio",
+   "services": "Servicios",
+   "faq": "FAQ",
+   "info": "Centro de información",
+   "contacts": "Contacto",
+   "callback": "Solicitar llamada"
+  },
+  "svc": {
+   "general": "Limpieza general",
+   "regular": "Limpieza regular",
+   "eco": "Limpieza ecológica",
+   "repair": "Limpieza tras reformas",
+   "dryclean": "Limpieza en seco de alfombras y tapizados",
+   "windows": "Limpieza de ventanas"
+  },
+  "common": {
+   "order": "Hacer un pedido",
+   "menu": "Menú",
+   "close": "Cerrar",
+   "prev": "Anterior",
+   "next": "Siguiente",
+   "phoneLabel": "Teléfono",
+   "readMore": "Leer más",
+   "allPosts": "Todos los artículos",
+   "language": "Idioma",
+   "skip": "Saltar al contenido",
+   "bookTrial": "Pedir una limpieza de prueba",
+   "backHome": "Volver al inicio"
+  },
+  "home": {
+   "servicesTitle": "Servicios de limpieza",
+   "services": [
+    {
+     "key": "general",
+     "h": "LIMPIEZA GENERAL",
+     "p": "Limpieza absoluta en cada rincón de su hogar",
+     "icon": "E209"
+    },
+    {
+     "key": "repair",
+     "h": "LIMPIEZA TRAS REFORMAS",
+     "p": "Prepararemos su casa renovada para vivir con comodidad",
+     "icon": "E077"
+    },
+    {
+     "key": "regular",
+     "h": "LIMPIEZA REGULAR",
+     "p": "Libérese de la preocupación por la limpieza",
+     "icon": "E20E"
+    },
+    {
+     "key": "dryclean",
+     "h": "LIMPIEZA EN SECO",
+     "p": "Devolveremos la limpieza original a sus muebles y alfombras",
+     "icon": "E22B"
+    },
+    {
+     "key": "windows",
+     "h": "LIMPIEZA DE VENTANAS",
+     "p": "Mire el mundo sin barreras",
+     "icon": "E036"
+    }
+   ],
+   "qualityTitle": "Calidad",
+   "quality": [
+    {
+     "icon": "user",
+     "h": "SELECCIÓN DEL PERSONAL",
+     "p": [
+      "Descartamos hasta el 95 % de los candidatos mediante:",
+      "1. Entrevista",
+      "2. Prueba de habilidades prácticas"
+     ]
+    },
+    {
+     "icon": "graduation-cap",
+     "h": "FORMACIÓN Y EVALUACIÓN",
+     "p": [
+      "Formación especializada en la elección de productos y equipos de limpieza. El trabajo se evalúa según puntualidad, calidad, rapidez y profesionalidad."
+     ]
+    },
+    {
+     "icon": "clock-o",
+     "h": "UN ENFOQUE HONESTO",
+     "p": [
+      "Si tiene alguna queja sobre el trabajo, volvemos y limpiamos de nuevo sin coste adicional"
+     ]
+    }
+   ],
+   "diffTitle": "En qué nos diferenciamos de los limpiadores particulares y las empresas industriales",
+   "diff": [
+    {
+     "icon": "thumbs-o-up",
+     "h": "CONOCIMIENTOS EXPERTOS",
+     "p": "Nos especializamos en viviendas, por lo que lo sabemos todo sobre productos de limpieza y el trato de cada material"
+    },
+    {
+     "icon": "shield",
+     "h": "VERIFICACIÓN DEL PERSONAL",
+     "p": "A diferencia de los particulares, nos hacemos responsables de la seguridad de sus pertenencias y seguimos un proceso de selección de personal en varias etapas"
+    },
+    {
+     "icon": "shopping-cart",
+     "h": "GAMA DE SERVICIOS",
+     "p": "Nuestro equipo nos permite asignar profesionales según sus necesidades particulares"
+    },
+    {
+     "icon": "flask",
+     "h": "EQUIPAMIENTO TÉCNICO",
+     "p": "Con nosotros dispone de una gama completa de productos hipoalergénicos y equipos profesionales"
+    }
+   ],
+   "reviewsTitle": "Opiniones de nuestros clientes",
+   "slides": [
+    {
+     "img": "main2_1",
+     "title": "¿Necesita limpiar con urgencia?",
+     "sub": "",
+     "btn": true
+    },
+    {
+     "img": "genubor_1",
+     "title": "Abra la puerta a la limpieza perfecta",
+     "sub": ""
+    },
+    {
+     "img": "mebel",
+     "title": "Limpieza en seco delicada",
+     "sub": "Elegiremos los productos que necesitan sus muebles"
+    },
+    {
+     "img": "okna2",
+     "title": "Ventanas relucientes",
+     "sub": "Que los rayos de sol iluminen su casa"
+    },
+    {
+     "img": "remont1",
+     "title": "¿Esperando para mudarse?",
+     "sub": "Deje la limpieza tras la reforma en manos de profesionales"
+    }
+   ]
+  },
+  "badges": [
+   "Garantía de calidad y seguridad",
+   "Puntualidad",
+   "Más de 1000 viviendas y casas limpiadas",
+   "Personal cualificado"
+  ],
+  "stepsTitle": "Cómo hacer el pedido",
+  "reviews": [
+   {
+    "q": "Excelentes chicos, se nota enseguida que saben lo que hacen. Limpiaron rápido y con esmero, no tengo ninguna queja. Después de la limpieza todo brilla, el aire es limpio y las ventanas parecen nuevas. Por eso, dos semanas después firmé un contrato con la empresa para la limpieza periódica.",
+    "name": "Víktor Yúrievich",
+    "role": "Empresario"
+   },
+   {
+    "q": "La limpieza duró casi una hora y media más de las 5 horas anunciadas, pero el resultado es sencillamente perfecto: eliminaron manchas antiguas del baño con las que yo no había podido. ¡Muchas gracias a la empresa por sus buenos trabajadores y por la ayuda con las tareas del hogar!",
+    "name": "Olga Mykoláyivna",
+    "role": "Directora de un salón de belleza"
+   },
+   {
+    "q": "Al día siguiente de la limpieza noté vetas en el parqué. Ese mismo día me llamaron del servicio de control de calidad para preguntar si me había gustado el servicio y les comenté mis observaciones. Sorprendentemente, reaccionaron a la queja con mucha rapidez: volvieron y enceraron todo el parqué de nuevo.",
+    "name": "Yulia Serhíyivna",
+    "role": "Ama de casa"
+   }
+  ],
+  "footer": {
+   "aboutTitle": "Sobre nosotros",
+   "about": [
+    "Somos un equipo experimentado de profesionales de la limpieza. Llevamos más de 5 años en el sector.",
+    "Nuestra misión es llevar la limpieza a su hogar y liberar su valioso tiempo.",
+    "Creemos que en la limpieza no hay detalles menores, por eso:",
+    "• elegimos cuidadosamente todos los productos;",
+    "• nuestros empleados han recibido formación y han hecho prácticas;",
+    "• todas las acciones están perfectamente coordinadas, desde que recibimos su solicitud hasta que usted entra en una casa limpia.",
+    "Nuestros servicios: limpieza general, limpieza regular (diaria), limpieza tras reformas, limpieza de ventanas, limpieza ecológica, limpieza en seco de muebles tapizados y alfombras."
+   ],
+   "open": "Estamos a su disposición todos los días de la semana de 09:00 a 19:00",
+   "online": "Las solicitudes en línea se aceptan las 24 horas.",
+   "area": "Trabajamos en Kiev y en la región de Kiev.",
+   "contactsTitle": "Nuestros contactos",
+   "hours": "Trabajamos de 9:00 a 19:00",
+   "onlineLabel": "Solicitudes en línea:",
+   "onlineValue": "24 horas",
+   "social": "Síganos en redes sociales",
+   "rights": "Todos los derechos reservados."
+  },
+  "modal": {
+   "title": "Hacer un pedido",
+   "lead": "Deje su nombre y teléfono: un gerente le llamará y concretará los detalles.",
+   "name": "Su nombre",
+   "phone": "Teléfono",
+   "comment": "Comentario (opcional)",
+   "send": "Enviar solicitud",
+   "sending": "Enviando…",
+   "success": "¡Gracias! Hemos recibido su solicitud, le llamaremos pronto.",
+   "testMode": "Modo de prueba: las solicitudes no se envían desde un ordenador local. En un alojamiento con PHP, la solicitud llegará por correo electrónico.",
+   "error": "No se pudo enviar la solicitud. Llámenos: ",
+   "invalidName": "Indique su nombre.",
+   "invalidPhone": "Indique un teléfono de al menos 9 dígitos."
+  },
+  "calc": {
+   "roomsLabel": "Número de habitaciones",
+   "roomsPlaceholder": "Seleccione el número de habitaciones",
+   "rooms": [
+    "1 habitación",
+    "2 habitaciones",
+    "3 habitaciones",
+    "4 habitaciones",
+    "5 habitaciones"
+   ],
+   "extrasLegend": "Extras",
+   "perHour": " / hora",
+   "extras": {
+    "bath2": "Segundo baño",
+    "balcony": "Balcón",
+    "pet": "Mascota",
+    "linen": "Cambio de ropa de cama",
+    "plants": "Riego de plantas",
+    "fridge": "Limpieza interior de la nevera",
+    "oven": "Limpieza interior del horno",
+    "microwave": "Limpieza interior del microondas",
+    "dishes": "Lavado de platos",
+    "ironing": "Planchado"
+   },
+   "freqLabel": "Con qué frecuencia limpiar",
+   "freq": {
+    "week": "1 vez por semana",
+    "two": "1 vez cada 2 semanas",
+    "three": "1 vez cada 3 semanas",
+    "month": "1 vez al mes"
+   },
+   "resultTitle": "Cálculo preliminar",
+   "empty": "Seleccione el número de habitaciones y le mostraremos el precio al instante.",
+   "one": "Una limpieza",
+   "first": "Primera limpieza (+50 %)",
+   "order": "Pedir una limpieza de prueba",
+   "currency": "UAH",
+   "linesRooms": "Habitaciones",
+   "linesExtras": "Servicios adicionales",
+   "linesFreq": "Recargo por frecuencia",
+   "d": {
+    "prefix": "Calculadora de limpieza regular",
+    "rooms": "habitaciones",
+    "extras": "extras",
+    "freq": "frecuencia",
+    "one": "una limpieza",
+    "first": "primera limpieza"
+   }
+  },
+  "area": {
+   "title": "Calculadora",
+   "rate": "Precio: desde 75 UAH por m².",
+   "lead": "Calcule el precio eligiendo la superficie de la vivienda",
+   "label": "Superficie de la vivienda",
+   "upTo": "hasta",
+   "price": "Precio de la limpieza: desde",
+   "currency": "UAH",
+   "size": "Superficie",
+   "people": "Especialistas",
+   "personUnit": "",
+   "order": "Pedir limpieza",
+   "d": "Calculadora por superficie",
+   "approx": "Precio orientativo; el gerente hará el cálculo exacto."
+  },
+  "band": {
+   "title": "Cualquiera de nuestros servicios siempre significa:",
+   "items": [
+    {
+     "icon": "check",
+     "h": "100 % GARANTÍA DE CALIDAD",
+     "p": "¿Alguna observación? Volveremos y solucionaremos los problemas sin coste alguno"
+    },
+    {
+     "icon": "shield",
+     "h": "SEGURIDAD",
+     "p": "Nos tomamos con total seriedad la selección y formación de nuestros limpiadores"
+    },
+    {
+     "icon": "puzzle-piece",
+     "h": "AMPLIA GAMA DE SERVICIOS",
+     "p": "Puede pedir una limpieza de cualquier complejidad cualquier día de la semana de 00:00 a 24:00"
+    },
+    {
+     "icon": "flask",
+     "h": "CONOCIMIENTO DE LAS TECNOLOGÍAS",
+     "p": "Trabajamos con cualquier superficie y material"
+    },
+    {
+     "icon": "thumbs-o-up",
+     "h": "CONTROL CONSTANTE DE CALIDAD",
+     "p": "Usted valora el trabajo de los limpiadores en una escala de cinco puntos y nosotros nos aseguramos de que el trabajo sea excelente"
+    }
+   ]
+  },
+  "diffRegular": {
+   "title": "En qué nos diferenciamos de los limpiadores particulares:",
+   "items": [
+    {
+     "icon": "user",
+     "h": "PROFESIONALIDAD",
+     "p": "Especialistas con más de 5 años de experiencia que conocen las particularidades de trabajar con distintos materiales y tipos de suciedad."
+    },
+    {
+     "icon": "refresh",
+     "h": "SUSTITUCIÓN",
+     "p": "Las vacaciones y bajas de nuestros empleados son cosa nuestra. Un especialista acudirá a la hora indicada y lo hará todo."
+    },
+    {
+     "icon": "flask",
+     "h": "EQUIPAMIENTO TÉCNICO",
+     "p": "Productos de limpieza profesionales que los limpiadores traen consigo."
+    },
+    {
+     "icon": "key",
+     "h": "EL HOGAR LLAVE EN MANO",
+     "p": "Además de la limpieza, ofrecemos servicios de cocina y pequeñas reparaciones. Consúltenos."
+    }
+   ]
+  }
+ },
+ "home": {
+  "meta": {
+   "title": "Limpieza de viviendas y casas en Kiev y región de Kiev | iCleaning",
+   "desc": "Limpieza rápida y de calidad de viviendas y casas en Kiev y su región: general, tras obras, regular. Llame: (067) 327-34-32."
+  }
+ },
+ "pages": {
+  "general": {
+   "meta": {
+    "title": "Limpieza de viviendas en Kiev: precios de los servicios de limpieza | iCleaning",
+    "desc": "Limpieza profesional de viviendas en Kiev, precios: limpieza general, diaria y puntual económica. ¡Solo buenas opiniones!"
+   },
+   "h1": "Limpieza general de viviendas y casas",
+   "sub": "con garantía de calidad y seguridad",
+   "price": "desde 75 UAH por m²",
+   "hero": "genubor_1",
+   "sections": [
+    {
+     "t": "areacalc"
+    },
+    {
+     "t": "h",
+     "x": "Limpieza general de viviendas"
+    },
+    {
+     "t": "p",
+     "x": "Garantizamos rapidez en la ejecución y estamos dispuestos a acudir a cualquier rincón de Kiev. Tenga por seguro que el profesionalismo y la responsabilidad de nuestros empleados no le dejarán indiferente. Disfrute hoy mismo del ambiente de frescura y limpieza en su casa, vivienda u oficina."
+    },
+    {
+     "t": "h",
+     "x": "La limpieza general incluye:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Cada estancia lavada con productos y equipos especialmente seleccionados",
+      "Alfombras aspiradas a fondo y todas las superficies sin polvo",
+      "Esquinas libres de telarañas",
+      "Puertas y rodapiés limpios",
+      "Radiadores sin rastros de polvo",
+      "Lámparas y luminarias limpias",
+      "Espejos relucientes en todas las estancias",
+      "Frentes de los muebles de cocina, fregadero y pared junto a la encimera / salpicadero lavados hasta que brillen",
+      "Rejillas de ventilación limpias y campana extractora lavada por fuera",
+      "Limpieza de baños y lavado de toda la grifería y sanitarios, incluidos los azulejos de las paredes",
+      "Una mampara de ducha perfecta, con hasta los elementos cromados pulidos",
+      "Basura retirada y bolsa nueva y vacía en un cubo limpio."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Además puede pedir:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Limpieza en seco de alfombras: desde 75 UAH/m²",
+      "Limpieza en seco de muebles tapizados: desde 500 UAH por plaza",
+      "Limpieza de la nevera: desde 200 UAH",
+      "Limpieza del congelador o del horno: desde 250 UAH cada uno",
+      "Limpieza del balcón: desde 150 UAH",
+      "Limpieza de un segundo baño: desde 500 UAH",
+      "Lavado de platos: desde 170 UAH/hora",
+      "Lavado y planchado de ropa: desde 170 UAH/hora",
+      "Riego de plantas: desde 50 UAH",
+      "Limpieza de ventanas: desde 100 UAH/m²"
+     ]
+    }
+   ],
+   "steps": [
+    {
+     "h": "PIDA LA LIMPIEZA",
+     "p": "Llámenos o deje una solicitud en la web. Cuéntenos dónde vive y qué hay que hacer."
+    },
+    {
+     "h": "ESPERE A LOS ESPECIALISTAS",
+     "p": "O deje una llave para que los limpiadores entren por su cuenta con todo lo necesario."
+    },
+    {
+     "h": "PAGUE POR EL RESULTADO",
+     "p": "Y disfrute de su vivienda limpia."
+    }
+   ]
+  },
+  "regular": {
+   "meta": {
+    "title": "Limpieza regular de viviendas en Kiev | iCleaning",
+    "desc": "Limpieza regular (diaria, semanal) de viviendas en Kiev y región con iCleaning: calculadora de precio, garantía de calidad y un especialista fijo."
+   },
+   "h1": "Limpieza regular",
+   "sub": "Libérese de las tareas del hogar",
+   "price": "",
+   "hero": "reg-cleaning_2",
+   "sections": [
+    {
+     "t": "h",
+     "x": "¡El servicio «Limpieza regular» es mejor que una empleada doméstica corriente!"
+    },
+    {
+     "t": "calc"
+    },
+    {
+     "t": "p",
+     "x": "*El precio es por 1 limpieza al contratar 4 veces al mes."
+    },
+    {
+     "t": "p",
+     "x": "*El coste final de la limpieza depende de su frecuencia:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "1 vez por semana: +0 % sobre el precio preliminar",
+      "1 vez cada 2 semanas: +10 %",
+      "1 vez cada 3 semanas: +20 %",
+      "1 vez al mes: +40 %"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "Primera limpieza +50 %"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "¿Le incomoda tener que hacerle siempre las mismas observaciones a su empleada doméstica?",
+      "¿Le resulta molesto adaptarse a cuándo y cómo LE conviene a ELLA poner orden en su casa?",
+      "¿Le preocupa que, si la despide, tendrá que perder tiempo buscando otra empleada y repetir de nuevo todos sus requisitos?"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Ventajas de la solución integral de iCleaning:"
+    },
+    {
+     "t": "p",
+     "x": "Alta calidad del servicio, teniendo en cuenta las particularidades de cada vivienda y los deseos del cliente:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Todos los requisitos del cliente se plasman en un «encargo técnico» detallado o lista de comprobación con la que usted recibe el trabajo del especialista al final de la limpieza.",
+      "Nuestros especialistas saben que cada superficie y material requiere una técnica de limpieza especial, productos específicos y las herramientas adecuadas.",
+      "Gracias al sistema de mejora continua de la calidad, nos esforzamos por superar sus expectativas."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "Puntualidad y disponibilidad a la hora que le convenga:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Usted elige cuándo le conviene poner orden en casa y nuestro especialista llega puntual al minuto.",
+      "Si sus planes cambian, puede cancelar o aplazar la visita del especialista a otro momento adecuado."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "Comodidad en la comunicación:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "A cada cliente se le asigna un asistente personal que está en contacto casi las 24 horas del día, los 7 días de la semana.",
+      "Puede dejar sus deseos, observaciones y agradecimientos por cualquier canal que le resulte cómodo: teléfono, Viber, correo electrónico o Facebook."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Si tiene más habitaciones de las indicadas en la tabla o necesita otra frecuencia de limpieza, deje una solicitud. El gerente se pondrá en contacto con usted en breve y realizará un cálculo individual."
+    },
+    {
+     "t": "cta",
+     "x": "trial"
+    },
+    {
+     "t": "h",
+     "x": "La limpieza regular incluye:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Limpieza en seco de alfombras con la aspiradora del cliente; uso de la aspiradora de la empresa: 500 UAH/mes",
+      "Limpieza en seco y en húmedo del suelo (con fregona)",
+      "Todas las superficies sin polvo",
+      "Alféizares y superficies exteriores de los radiadores lavados y secados",
+      "Eliminación de telarañas",
+      "Puertas y rodapiés secados",
+      "Espejos limpios en todas las estancias",
+      "Frentes de los muebles de cocina, fregadero y pared junto a la encimera / salpicadero lavados hasta que brillen",
+      "Limpieza del baño y lavado de todos los sanitarios; baño adicional +250 UAH",
+      "Interruptores y enchufes limpios",
+      "Lámparas y luminarias sin polvo (usamos plumero)",
+      "Rejilla de ventilación sin polvo",
+      "Basura retirada y bolsa nueva y vacía en un cubo limpio."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Además puede pedir:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Limpieza del balcón + 150 UAH",
+      "Limpieza de un segundo baño + 350 UAH",
+      "Limpieza interior de la nevera + 350 UAH",
+      "Limpieza interior del horno + 400 UAH",
+      "Limpieza interior de muebles + 50 UAH por unidad",
+      "Limpieza en húmedo de lámparas y luminarias + 200 UAH por unidad",
+      "Lavado de platos 350 UAH/hora",
+      "Lavado y planchado de ropa 350 UAH/hora",
+      "Riego de plantas desde 75 UAH",
+      "Limpieza de ventanas 150 UAH/m²",
+      "Limpieza profunda (para estancias muy sucias) + 2000 UAH",
+      "Limpieza en seco de alfombras y muebles tapizados: 150 UAH/m²"
+     ]
+    }
+   ],
+   "steps": [
+    {
+     "h": "PIDA UNA LIMPIEZA DE PRUEBA",
+     "p": "Llámenos o deje una solicitud en la web. Programe la hora de la primera visita."
+    },
+    {
+     "h": "CONOZCA A LOS ESPECIALISTAS",
+     "p": "Elabore junto con el gerente un mapa exacto de tareas para su vivienda, teniendo en cuenta sus particularidades y matices. Conozca a su limpiador."
+    },
+    {
+     "h": "EVALÚE LA CALIDAD",
+     "p": "Compruebe la calidad del trabajo realizado. Añada cambios a la ficha de tareas."
+    },
+    {
+     "h": "DEFINA EL CALENDARIO DE LIMPIEZA",
+     "p": "Acuerde con el gerente todas las condiciones y el calendario de las limpiezas regulares. Disfrute de la limpieza."
+    }
+   ]
+  },
+  "eco": {
+   "meta": {
+    "title": "Limpieza ecológica profesional de iCleaning",
+    "desc": "La limpieza ecológica es una limpieza profesional con productos seguros y generador de vapor Karcher. Limpieza segura de iCleaning con garantía de calidad."
+   },
+   "h1": "Limpieza ecológica de viviendas y casas",
+   "sub": "con garantía de seguridad y calidad",
+   "price": "",
+   "hero": "main1_1",
+   "sections": [
+    {
+     "t": "areacalc"
+    },
+    {
+     "t": "h",
+     "x": "¿Un nuevo miembro en la familia y muchas tareas? ¡Siempre tenemos tiempo para ayudarle con la limpieza!"
+    },
+    {
+     "t": "p",
+     "x": "¡Pida una limpieza ecológica con un 10 % de descuento antes de que su pequeño cruce por primera vez el umbral de su casa!"
+    },
+    {
+     "t": "p",
+     "x": "En la sociedad moderna cada vez más personas prestan atención a un estilo de vida saludable. No es ningún secreto que nuestra salud depende directamente del entorno en el que estamos. Sorprendentemente, incluso el polvo corriente puede ser a veces la causa del malestar e incluso del mal humor. Imagine lo que entra en nuestras vías respiratorias cuando estamos en una habitación polvorienta: esporas de moho, bacterias, virus, polen… y esa no es ni mucho menos la lista completa. Por supuesto, hoy todos tenemos en casa una reserva de productos químicos domésticos para combatir las plagas, pero a menudo ni sospechamos que estos productos pueden causar mucho más daño que beneficio, sobre todo si en casa hay niños o personas sensibles a los irritantes químicos."
+    },
+    {
+     "t": "p",
+     "x": "El principio fundamental de nuestra empresa es el enfoque individual con cada cliente, teniendo en cuenta todos sus requisitos y deseos. Por eso hemos desarrollado para usted un programa de limpieza que ayudará a lograr una limpieza impecable en su casa utilizando únicamente productos hipoalergénicos y seguros."
+    },
+    {
+     "t": "p",
+     "x": "Para quién es adecuada la limpieza ECO:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Mujeres embarazadas",
+      "Niños de cualquier edad",
+      "Personas sensibles a los irritantes químicos y alérgicas",
+      "Familias con mascotas",
+      "Personas que se preocupan por su salud y por el medio ambiente"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "El equipo que utilizamos en la limpieza ECO:"
+    },
+    {
+     "t": "p",
+     "x": "Para desinfectar y limpiar distintas superficies utilizamos un generador de vapor profesional Karcher, cuyo principio de funcionamiento consiste en suministrar vapor (140–160 °C) a presión. Este método no solo elimina eficazmente todo tipo de suciedad (incluso restos de pintura tras una reforma), sino que además elimina el 99,9 % de las bacterias domésticas. Hoy en día este es el mejor método seguro para combatir la suciedad, ya que excluye el uso de cualquier producto químico. Cada miembro de nuestro equipo dispone de un juego de accesorios para el generador de vapor, lo que permite limpiar eficazmente todo tipo de superficies y lugares de difícil acceso con vapor de agua."
+    },
+    {
+     "t": "p",
+     "x": "Al terminar nuestro trabajo usted disfruta de:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Superficies seguras en toda la casa (sin alérgenos, ácaros del polvo, saprófitos, hongos ni microorganismos peligrosos)",
+      "Una limpieza perfecta (sin polvo, sarro, manchas antiguas, vetas ni grasa)",
+      "Un aire fresco e inocuo"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Deje una solicitud, por favor. El gerente se pondrá en contacto con usted en breve y realizará un cálculo individual."
+    },
+    {
+     "t": "h",
+     "x": "Tras la limpieza ecológica usted obtiene:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Superficies seguras (sin polvo, alérgenos, hongos, moho, restos de grasa ni suciedad).",
+      "Limpieza en seco de alfombras con aspiradora.",
+      "Limpieza en seco y en húmedo del suelo (con fregona).",
+      "Alféizares y superficies exteriores de los radiadores lavados y secados",
+      "Eliminación de telarañas",
+      "Puertas y rodapiés secados",
+      "Espejos limpios en todas las estancias",
+      "Frentes de los muebles de cocina, fregadero y pared junto a la encimera / salpicadero lavados hasta que brillen",
+      "Limpieza del baño y lavado de todos los sanitarios; baño adicional +500 UAH",
+      "Interruptores y enchufes limpios",
+      "Lámparas y luminarias sin polvo (usamos plumero)",
+      "Basura retirada y bolsa nueva y vacía en un cubo limpio."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Además puede pedir:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Limpieza del balcón + 100 UAH",
+      "Limpieza de un segundo baño + 500 UAH",
+      "Limpieza interior de la nevera + 200 UAH",
+      "Limpieza interior del horno + 250 UAH",
+      "Limpieza interior de muebles + 25 UAH por unidad",
+      "Limpieza en húmedo de lámparas y luminarias + 100 UAH por unidad",
+      "Lavado de platos desde 170 UAH/hora",
+      "Lavado y planchado de ropa desde 170 UAH/hora",
+      "Riego de plantas desde 50 UAH",
+      "Limpieza de ventanas desde 100 UAH/m²",
+      "Limpieza profunda (para estancias muy sucias) + 1500 UAH",
+      "Limpieza en seco de alfombras y muebles tapizados: desde 75 UAH/m²"
+     ]
+    }
+   ],
+   "steps": [
+    {
+     "h": "PIDA UNA LIMPIEZA DE PRUEBA",
+     "p": "Llámenos o deje una solicitud en la web. Programe la hora de la primera visita."
+    },
+    {
+     "h": "CONOZCA A LOS ESPECIALISTAS",
+     "p": "Elabore junto con el gerente un mapa exacto de tareas para su vivienda, teniendo en cuenta sus particularidades y matices. Conozca a su limpiador."
+    },
+    {
+     "h": "EVALÚE LA CALIDAD",
+     "p": "Compruebe la calidad del trabajo realizado. Añada cambios a la ficha de tareas."
+    },
+    {
+     "h": "DEFINA EL CALENDARIO DE LIMPIEZA",
+     "p": "Acuerde con el gerente todas las condiciones y el calendario de las limpiezas regulares. Disfrute de la limpieza."
+    }
+   ]
+  },
+  "repair": {
+   "meta": {
+    "title": "Limpieza tras reformas en Kiev: viviendas, locales, casas, chalés | iCleaning",
+    "desc": "Limpieza general profesional tras una reforma en Kiev, precios para chalés, casas, viviendas y locales: solo buenas opiniones y precios agradables."
+   },
+   "h1": "Limpieza tras reformas en Kiev",
+   "sub": "desde 70 UAH por m²",
+   "price": "",
+   "hero": "remont2",
+   "sections": [
+    {
+     "t": "p",
+     "x": "Ahórrese quitar el polvo, los escombros, el serrín y la pintura: todo con un solo clic. El gerente acudirá para elaborar un plan de acción detallado y determinar el tiempo necesario para limpiar la vivienda/casa/chalé tras la reforma. Nuestros empleados limpiarán cualquier superficie y material con productos hábilmente seleccionados."
+    },
+    {
+     "t": "p",
+     "x": "El coste de la limpieza tras una reforma es desde 70 UAH por m². El precio puede aumentar por la complejidad de los trabajos y el grado de suciedad."
+    },
+    {
+     "t": "h",
+     "x": "Cada limpieza tras una reforma significa:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Ausencia total de polvo de obra",
+      "Suelos, alféizares, rodapiés, radiadores y tuberías lavados a fondo",
+      "Fachadas y superficies exteriores e interiores de los muebles limpias",
+      "Enchufes e interruptores limpios",
+      "Muebles tapizados y electrodomésticos sin polvo",
+      "Luminarias limpias (incluidas las lámparas de cristal)",
+      "Marcos de puertas y herrajes limpios",
+      "Sanitarios limpios y desinfectados",
+      "Limpieza completa de bañeras y mamparas de ducha",
+      "Balcón limpio",
+      "Azulejos lavados y superficies de vidrio y espejo limpias",
+      "Superficies limpias de la nevera, el microondas, el lavavajillas, el hervidor, etc."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Además puede pedir la limpieza de ventanas: desde 100 UAH/m"
+    }
+   ],
+   "steps": [
+    {
+     "h": "PIDA LA LIMPIEZA",
+     "p": "Llámenos o deje una solicitud en la web. Cuéntenos dónde vive y qué hay que hacer."
+    },
+    {
+     "h": "UN GERENTE LE VISITARÁ",
+     "p": "Valorará el volumen de trabajo, el tiempo de ejecución y los especialistas y equipos necesarios."
+    },
+    {
+     "h": "ESPERE A LOS ESPECIALISTAS",
+     "p": "O deje una llave para que los limpiadores entren por su cuenta con todo lo necesario."
+    },
+    {
+     "h": "PAGUE POR EL RESULTADO",
+     "p": "Disfrute de una vivienda limpia, lista para entrar a vivir."
+    }
+   ]
+  },
+  "dryclean": {
+   "meta": {
+    "title": "Limpieza en seco de muebles tapizados y alfombras a domicilio en Kiev | iCleaning",
+    "desc": "Limpieza en seco profesional de alfombras y muebles tapizados a domicilio: ¡solo buenas opiniones y precios agradables!"
+   },
+   "h1": "Limpieza en seco de alfombras y muebles tapizados",
+   "sub": "desde 75 UAH/m²",
+   "price": "",
+   "hero": "mebel",
+   "sections": [
+    {
+     "t": "p",
+     "x": "El verano es la época ideal para la limpieza en seco de alfombras y muebles tapizados. Recomendamos pedir la limpieza en seco para un día cálido y soleado, con temperatura superior a 20 grados y humedad inferior al 50 %: así se acelera al máximo el tiempo de secado. Realizamos de forma rápida y con calidad la limpieza en seco de alfombras, moquetas y muebles tapizados en su domicilio."
+    },
+    {
+     "t": "h",
+     "x": "Limpieza en seco de alfombras: desde 75 UAH/m²."
+    },
+    {
+     "t": "p",
+     "x": "Limpieza en seco de muebles tapizados: desde 500 UAH por plaza."
+    },
+    {
+     "t": "p",
+     "x": "Limpieza en seco de un colchón individual (por ambos lados): desde 900 UAH."
+    },
+    {
+     "t": "p",
+     "x": "Limpieza en seco de un colchón de matrimonio (por ambos lados): desde 1200 UAH."
+    },
+    {
+     "t": "p",
+     "x": "El desplazamiento se realiza con un pedido mínimo de 1500 UAH."
+    },
+    {
+     "t": "h",
+     "x": "Además podemos:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Eliminar manchas persistentes",
+      "Eliminar olores fuertes y desagradables (orina, olores de animales, moho)",
+      "Limpiar su vivienda con calidad",
+      "Limpiar una casa/vivienda/chalé/local tras una reforma",
+      "Lavar las ventanas",
+      "Realizar cualquier otro servicio de limpieza."
+     ]
+    }
+   ],
+   "steps": [
+    {
+     "h": "PIDA LA LIMPIEZA",
+     "p": "Llámenos o deje una solicitud en la web. Cuéntenos dónde vive y qué hay que hacer."
+    },
+    {
+     "h": "ESPERE A LOS ESPECIALISTAS",
+     "p": "O deje una llave para que los limpiadores entren por su cuenta con todo lo necesario."
+    },
+    {
+     "h": "PAGUE POR EL RESULTADO",
+     "p": "Y disfrute de la limpieza."
+    }
+   ]
+  },
+  "windows": {
+   "meta": {
+    "title": "Limpieza de ventanas en Kiev, precios de los servicios de limpieza de ventanas | iCleaning",
+    "desc": "Limpieza de ventanas (escaparates) en una vivienda u oficina de Kiev: solo buenas opiniones y precios asequibles. También es posible la limpieza de ventanas tras una reforma."
+   },
+   "h1": "Limpieza de ventanas",
+   "sub": "desde 100 UAH por m²",
+   "price": "",
+   "hero": "okna",
+   "sections": [
+    {
+     "t": "p",
+     "x": "Siempre es más agradable mirar por una ventana cuando está transparente."
+    },
+    {
+     "t": "p",
+     "x": "A petición suya lavaremos sus ventanas de forma rápida y con calidad a cualquier hora que le convenga."
+    },
+    {
+     "t": "h",
+     "x": "El precio de la limpieza es desde 100 UAH por m²."
+    },
+    {
+     "t": "p",
+     "x": "El desplazamiento se realiza con un pedido mínimo de 1200 UAH."
+    },
+    {
+     "t": "h",
+     "x": "La limpieza de ventanas con iCleaning incluye:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Ventanas limpias por dentro y por fuera",
+      "Eliminación de restos de pintura y cemento en las ventanas",
+      "Marcos de ventana bien lavados",
+      "Alféizares, vierteaguas y herrajes de ventana limpios"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Además puede pedir:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Limpieza en seco de alfombras: desde 75 UAH/m²",
+      "Limpieza en seco de muebles tapizados: desde 500 UAH por plaza",
+      "Limpieza de la vivienda",
+      "Limpieza general tras una reforma",
+      "Limpieza regular: desde 600 UAH",
+      "Otros servicios de limpieza"
+     ]
+    }
+   ],
+   "steps": [
+    {
+     "h": "PIDA LA LIMPIEZA",
+     "p": "Llámenos o deje una solicitud en la web. Cuéntenos dónde vive y qué hay que hacer."
+    },
+    {
+     "h": "UN GERENTE LE VISITARÁ",
+     "p": "Valorará el volumen de trabajo, el tiempo de ejecución y los especialistas y equipos necesarios."
+    },
+    {
+     "h": "ESPERE A LOS ESPECIALISTAS",
+     "p": "O deje una llave para que los limpiadores entren por su cuenta con todo lo necesario."
+    },
+    {
+     "h": "PAGUE POR EL RESULTADO",
+     "p": "Disfrute de una vivienda limpia, lista para entrar a vivir."
+    }
+   ]
+  }
+ },
+ "faq": {
+  "meta": {
+   "title": "FAQ: preguntas frecuentes | iCleaning",
+   "desc": "Respuestas a las preguntas frecuentes sobre la limpieza con iCleaning."
+  },
+  "h1": "Preguntas frecuentes",
+  "items": [
+   {
+    "q": "¿Cuánto cuesta la limpieza?",
+    "a": "Limpieza general: desde 75 UAH por m²; limpieza tras una reforma: desde 70 UAH por m²; limpieza de ventanas: desde 100 UAH por m²; limpieza en seco de alfombras: desde 75 UAH por m². El precio de la limpieza regular depende del número de habitaciones, de los extras y de la frecuencia; puede calcularlo con la calculadora de la página del servicio."
+   },
+   {
+    "q": "¿Hay un pedido mínimo?",
+    "a": "Nos desplazamos para la limpieza de ventanas con un pedido mínimo de 1200 UAH y para la limpieza en seco con un pedido mínimo de 1500 UAH."
+   },
+   {
+    "q": "¿Qué pasa si no me gusta el resultado?",
+    "a": "Si tiene alguna observación, volveremos y solucionaremos los problemas sin coste alguno. Además, tras cada limpieza usted valora el trabajo de los limpiadores en una escala de cinco puntos."
+   },
+   {
+    "q": "¿Cuándo puedo pedir una limpieza?",
+    "a": "Puede pedir una limpieza de cualquier complejidad cualquier día de la semana de 00:00 a 24:00. Las solicitudes en línea se aceptan las 24 horas y por teléfono atendemos todos los días de 9:00 a 19:00."
+   },
+   {
+    "q": "¿Tengo que estar en casa durante la limpieza?",
+    "a": "No, puede dejar una llave: los limpiadores entrarán por su cuenta con todo lo necesario."
+   },
+   {
+    "q": "¿Traen los productos y el equipo?",
+    "a": "Sí. Los limpiadores traen consigo productos de limpieza profesionales; disponemos de una gama completa de productos hipoalergénicos y equipos profesionales."
+   },
+   {
+    "q": "¿En qué zonas trabajan?",
+    "a": "Trabajamos en Kiev y en la región de Kiev."
+   },
+   {
+    "q": "¿Con qué frecuencia puedo pedir la limpieza regular?",
+    "a": "1 vez por semana, 1 vez cada 2 semanas, 1 vez cada 3 semanas o 1 vez al mes. El precio es por 1 limpieza al contratar 4 veces al mes; con una frecuencia menor se aplican recargos (+10 %, +20 %, +40 %) y la primera limpieza cuesta un 50 % más."
+   },
+   {
+    "q": "¿Qué es la limpieza ecológica?",
+    "a": "Es una limpieza que utiliza únicamente productos hipoalergénicos y seguros, con un generador de vapor profesional Karcher. Es apta para mujeres embarazadas, niños, personas alérgicas y familias con mascotas."
+   },
+   {
+    "q": "¿Cómo hago el pedido?",
+    "a": "Llámenos o deje una solicitud en la web: cuéntenos dónde vive y qué hay que hacer. El gerente se pondrá en contacto con usted y acordará los detalles."
+   }
+  ]
+ },
+ "info": {
+  "meta": {
+   "title": "Artículos sobre limpieza profesional | iCleaning",
+   "desc": "Artículos sobre limpieza profesional"
+  },
+  "h1": "Centro de información",
+  "lead": "Artículos sobre limpieza profesional"
+ },
+ "thanks": {
+  "meta": {
+   "title": "Gracias por su solicitud | iCleaning",
+   "desc": ""
+  },
+  "h1": "Gracias por su solicitud",
+  "p": "Su solicitud ha sido enviada. Un gerente le llamará en breve.",
+  "link": "Puede volver a la página de inicio de nuestro sitio."
+ },
+ "posts": {
+  "child": {
+   "title": "Normas de limpieza cuando hay un niño pequeño en casa: limpieza ecológica",
+   "date": "2024-01-16",
+   "desc": "Limpieza ecológica para una estancia saludable del bebé en la vivienda, que siguen los especialistas en cuidado ecológico del hogar de iCleaning, especialmente formados.",
+   "seo": "Limpieza ecológica cuando hay un niño pequeño en casa",
+   "body": [
+    {
+     "t": "p",
+     "x": "¿Para qué sirve la limpieza ecológica? La llegada de un niño a la familia es una alegría y una responsabilidad especiales. «Mantener la casa limpia»: para muchos padres jóvenes estas palabras adquieren ahora un nuevo significado. Y es que cuanto más pequeño es el bebé, más vulnerable es su organismo. A menudo se oye que el niño tiene la nariz tapada o quejas de que enferma con frecuencia. Se achaca todo: virus, resfriados, la salida de los dientes. Pero para averiguar la causa del malestar no basta con acudir al médico. Es importante realizar un peritaje ecológico de la vivienda. La causa puede ser invisible a la vista pero perceptible para un organismo pequeño: polvo doméstico, hongos, moho."
+    },
+    {
+     "t": "img"
+    },
+    {
+     "t": "p",
+     "x": "Ante todo, preste atención a la ecología de la habitación infantil, porque es allí donde el niño pasa la mayor parte del tiempo."
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Los muebles y la reforma deben estar hechos con los materiales más naturales posibles. Los sustitutos artificiales pueden ser tóxicos y provocar alergias inesperadas.",
+      "En toda habitación infantil debe haber ventanas grandes y luminosas, que se puedan abrir para ventilar con regularidad.",
+      "Cuantos menos peluches, mantas peludas (tan de moda ahora), colchas y monos que acumulen polvo y se conviertan en portadores de gérmenes, más sano estará su bebé."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "¿Pero cómo prescindir de todo eso? Las alfombras nos dan confort y, en la estación fría, también calor. El bebé aprende a gatear y da sus primeros pasos, así que debe ser seguro y cómodo. Y los juguetes: a los allegados les encanta regalarlos. ¿Cómo privar a los familiares de la alegría de regalarle al bebé un enorme oso de peluche en su primer cumpleaños? ¡Y cuántas emociones positivas le produce al niño poder montar en un caballo de peluche o abrazar a una cría de panda de juguete de tamaño real!"
+    },
+    {
+     "t": "p",
+     "x": "Los juguetes blandos, los sofás, las alfombras e incluso las paredes acumulan polvo y las partículas más diminutas de nuestra vida diaria (ropa, juguetes, periódicos). Cuando pasamos la aspiradora, estas micropartículas se dispersan y se posan en las superficies de nuestro interior y en nuestras cosas."
+    },
+    {
+     "t": "p",
+     "x": "Por eso, un compañero constante en nuestro hogar y causa de muchas enfermedades es el polvo. Intentamos combatirlo sin descanso. Pero si para algunos es solo una molestia o un inconveniente, para un niño pequeño el polvo es a menudo una fuente de enfermedad. ¿Por qué ocurre esto? Las bacterias y los virus no pueden volar por sí solos, y el polvo precisamente los eleva en el aire. Es una especie de «barquito volador» para los agentes causantes de enfermedades. Además, el propio polvo puede provocar alergia."
+    },
+    {
+     "t": "h",
+     "x": "¿Qué hacer?"
+    },
+    {
+     "t": "p",
+     "x": "Preparar la vivienda para la llegada del bebé y limpiarla correctamente. Para ello existe un algoritmo de limpieza ecológica para una estancia cómoda y saludable del bebé en la vivienda, que siguen los especialistas en cuidado ecológico del hogar de iCleaning, con formación profesional."
+    },
+    {
+     "t": "h",
+     "x": "¿Qué es la limpieza ecológica?"
+    },
+    {
+     "t": "p",
+     "x": "Ante todo, hay que quitar el polvo de las superficies con mucha delicadeza y pericia y lograr su limpieza sin química. Puede ayudar una química profesional no tóxica de base orgánica. Una condición imprescindible es el uso de microfibra, excluyendo trapos y paños que sueltan polvo, así como cualquier impregnación (antibacteriana o química)."
+    },
+    {
+     "t": "p",
+     "x": "Una magnífica alternativa a la química doméstica son los limpiadores universales como el vinagre, el limón y el bicarbonato."
+    },
+    {
+     "t": "p",
+     "x": "Por ejemplo, se pueden desinfectar los juguetes infantiles en agua jabonosa con un poco de vinagre blanco destilado."
+    },
+    {
+     "t": "p",
+     "x": "El moho y los restos de jabón del baño o de la ducha se eliminan frotando la superficie con el mismo vinagre sin diluir y enjuagando después con agua."
+    },
+    {
+     "t": "p",
+     "x": "Y si tras una reforma necesita lavar el suelo sin vetas: un vaso de vinagre por litro de agua garantiza limpieza y brillo."
+    },
+    {
+     "t": "p",
+     "x": "Para lavar las superficies sucias de la encimera de la cocina le ayudará un simple limón. Córtelo por la mitad y échele una cucharada de bicarbonato. Y mientras esta mezcla burbujea, ponga manos a la obra y friegue."
+    },
+    {
+     "t": "p",
+     "x": "Estos remedios requieren, quizá, algo más de tiempo. Pero son totalmente ecológicos y no provocan alergia. Los especialistas en cuidado ecológico del hogar de iCleaning, con formación profesional, pueden ahorrarle tiempo y esfuerzo utilizando solo ecoproductos y ecoquímica. Eliminarán con calidad y rapidez las fuentes de suciedad de su casa y crearán un buen entorno para el desarrollo saludable de su bebé."
+    }
+   ]
+  },
+  "fridge": {
+   "title": "¿Mal olor en la nevera? Los 7 mejores remedios para eliminarlo",
+   "date": "2024-01-16",
+   "desc": "7 remedios para eliminar el olor de la nevera: ¿quiere eliminar rápido y por mucho tiempo el mal olor de su nevera? ¡Siga los consejos de iCleaning!",
+   "seo": "¿Mal olor en la nevera? ¡7 remedios para eliminarlo!",
+   "body": [
+    {
+     "t": "p",
+     "x": "Toda cocina tiene una nevera. Ya sea una vivienda o una oficina, se encarga sin descanso de mantener frescos los alimentos. Pero un día, al abrir la puerta, nos entran ganas de cerrarla muy deprisa. La causa: un mal olor en la nevera."
+    },
+    {
+     "t": "img"
+    },
+    {
+     "t": "h",
+     "x": "¿Qué hacer para deshacerse del olor de la nevera?"
+    },
+    {
+     "t": "p",
+     "x": "Ante todo, hay que entender la causa de este fenómeno, ya que su nevera huele con mayor frecuencia por los siguientes motivos:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Almacenamiento incorrecto de los alimentos. Tape las ollas, los frascos y los recipientes con una tapa o film transparente. Intente no olvidarse de ciertos alimentos que, al echarse a perder, desprenden un aroma poco agradable.",
+      "La nevera es nueva. En sus paredes aún quedan diminutas partículas de plástico y olor a aceite de máquina y a metal. En este caso basta con lavar a fondo el aparato por dentro y por fuera, limpiando todas las baldas y sujeciones. Puede usar una solución de bicarbonato o una solución débil de amoníaco (cinco gotas por litro de agua). Después espere un poco a que el olor se ventile."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "Ahora que entendemos la causa, intentemos eliminarla con los métodos más sencillos y eficaces."
+    },
+    {
+     "t": "p",
+     "x": "Consideraremos exclusivamente remedios orgánicos, que son los que usan los especialistas en cuidado ecológico del hogar de iCleaning, porque la nevera es un lugar de contacto con los alimentos. Aquí no es recomendable usar química para no dañar la salud."
+    },
+    {
+     "t": "h",
+     "x": "1. Vinagre."
+    },
+    {
+     "t": "p",
+     "x": "En primer lugar, el «rey» de la limpieza: el vinagre."
+    },
+    {
+     "t": "p",
+     "x": "Saque todos los alimentos y limpie a fondo las paredes, las baldas y las sujeciones. Para ello diluya vinagre al 9 % con agua a partes iguales y lave toda la nevera con la solución. Preste especial atención al desagüe y a la junta. Este método sencillo y barato le librará no solo del mal olor de la nevera, sino que además matará hasta el 90 % de todas las bacterias, gérmenes y moho. Si le preocupa el olor característico del vinagre, no hay problema: aunque no seque la superficie tratada, el vinagre se evaporará sin dejar rastro en un par de horas."
+    },
+    {
+     "t": "h",
+     "x": "2. Amoníaco."
+    },
+    {
+     "t": "p",
+     "x": "El segundo puesto lo ocupa el amoníaco."
+    },
+    {
+     "t": "p",
+     "x": "Diluya una cucharadita de amoníaco en un litro de agua, mezcle y friegue bien su nevera con la solución. Gracias al alcohol no quedan vetas en la superficie, disuelve bien la grasa y arrastra los gérmenes que provocan el mal olor en la nevera."
+    },
+    {
+     "t": "h",
+     "x": "3. Bicarbonato."
+    },
+    {
+     "t": "p",
+     "x": "Eficaz contra los hongos y excelente absorbiendo olores, el bicarbonato ocupa con todo derecho el siguiente puesto. Para empezar, lave su nevera con una solución acuosa: dos cucharadas soperas de bicarbonato por litro de agua. Después ponga bicarbonato en un recipiente pequeño y colóquelo en la nevera, cambiándolo cada tres meses."
+    },
+    {
+     "t": "h",
+     "x": "4. Zumo de limón."
+    },
+    {
+     "t": "p",
+     "x": "El zumo de limón le ayudará a llenar el aparato de frescor. Exprima un poco de un limón y humedezca un paño. Frote a conciencia; después corte un limón (o una naranja) en gajos y póngalos en un platillo, dejándolos 2-3 días. El limón elimina especialmente bien el olor a pescado."
+    },
+    {
+     "t": "p",
+     "x": "Si tiene un niño pequeño o su agenda está programada al minuto y no hay tiempo para lavar a fondo la nevera, los especialistas en cuidado ecológico del hogar de iCleaning le ayudarán sin duda."
+    },
+    {
+     "t": "p",
+     "x": "Ahora que su nevera ya está lavada, abra su puerta un par de horas para que se ventile bien. Y si aún queda algo de olor en la nevera, le ayudarán a eliminarlo:"
+    },
+    {
+     "t": "h",
+     "x": "5. Carbón activado."
+    },
+    {
+     "t": "p",
+     "x": "Triture 30-40 pastillas, póngalas en un platillo y déjelas en la nevera hasta que desaparezca el olor (como máximo 5 días). Cabe señalar que algunas amas de casa tienen siempre carbón en la balda como medida preventiva. Y no en vano, pues el carbón forma parte de muchos absorbeolores que se venden en las tiendas."
+    },
+    {
+     "t": "h",
+     "x": "6. Arroz, sal y azúcar."
+    },
+    {
+     "t": "p",
+     "x": "También se pueden poner en un platillo y colocar en la nevera. Y, para prevenir la aparición de malos olores, cambiarlos cada pocos días."
+    },
+    {
+     "t": "h",
+     "x": "7. Patata cruda."
+    },
+    {
+     "t": "p",
+     "x": "Un adsorbente natural es la patata cruda pelada y una cebolla cortada en varios trozos. Coloque estos alimentos en los rincones de la nevera sobre servilletas de papel o platillos y cámbielos cada 2-3 días."
+    },
+    {
+     "t": "p",
+     "x": "Y recuerde que un olor a rancio en la nevera no solo es desagradable: todos los alimentos se impregnan de él, lo que es especialmente peligroso para su salud. ¡Mantenga la limpieza y viva sano!"
+    }
+   ]
+  },
+  "bath": {
+   "title": "Secretos de la limpieza ecológica del baño",
+   "date": "2024-01-16",
+   "desc": "¿Limpieza segura en el baño? ¿No sabe por dónde empezar? Los especialistas de iCleaning le explicarán las reglas de la limpieza ecológica del baño.",
+   "seo": "Secretos de la limpieza ecológica del baño",
+   "body": [
+    {
+     "t": "p",
+     "x": "¿Cómo limpiar el baño para que no queden vetas en la mampara de ducha y los azulejos brillen como nuevos? ¿Cómo limpiar sin dañar la salud?"
+    },
+    {
+     "t": "p",
+     "x": "Si en casa hay niños pequeños, personas alérgicas, mujeres embarazadas o lactantes, o simplemente se preocupa por su salud, la limpieza ecológica del baño es lo que necesita. Existen varias soluciones."
+    },
+    {
+     "t": "p",
+     "x": "La forma más barata y sencilla es poner orden con lo que siempre hay en casa (limón, sal, vinagre). También son seguros y eficaces el vapor y la química doméstica orgánica."
+    },
+    {
+     "t": "img"
+    },
+    {
+     "t": "h",
+     "x": "Reglas de la limpieza ecológica del baño"
+    },
+    {
+     "t": "p",
+     "x": "Al empezar a limpiar es importante recordar la regla «de oro» de la limpieza profesional: lavar y limpiar de arriba abajo y de dentro hacia fuera (primero se lavan las superficies interiores y después las exteriores, menos sucias)."
+    },
+    {
+     "t": "p",
+     "x": "Por eso, primero limpie las paredes. En ellas suelen verse restos de cal. Para eliminarlos fácil y rápidamente, use una solución de vinagre. Cómo prepararla puede leerlo en el artículo «Normas de limpieza cuando hay un niño pequeño en casa: limpieza ecológica». Y para fijar el resultado, basta con pasar un paño de microfibra por la superficie."
+    },
+    {
+     "t": "p",
+     "x": "Si las juntas entre los azulejos se han ensuciado, le ayudará un cepillo de dientes corriente con bicarbonato (o vinagre, pasta de dientes o sal de cocina fina). Para limpiar las juntas no debe usar nunca jabón: favorece la propagación de las esporas del moho. Rehacer las juntas requiere tiempo y esfuerzo. Para ahorrarlos y relajarse después en una bañera limpiada por profesionales, acuda a los especialistas en cuidado ecológico del hogar de iCleaning. Pondrán orden con calidad y rapidez."
+    },
+    {
+     "t": "p",
+     "x": "Cuando sus paredes brillen como nuevas, es hora de lavar la bañera. Hoy las más comunes son las de hierro fundido, acero y acrílico. Pero ¿cómo cuidarlas correctamente? Las bañeras acrílicas modernas son las más delicadas. Lo mejor es lavar su superficie con una esponja suave y jabón líquido. Si en casa hay un niño pequeño, es mejor el jabón infantil que el doméstico. Y el vinagre de mesa templado o el zumo de limón eliminan fácilmente de la superficie las manchas de agua oxidada."
+    },
+    {
+     "t": "p",
+     "x": "Y para no estropear la capa de esmalte de una bañera de hierro fundido o de acero, no elimine la suciedad persistente de la superficie con arena, objetos afilados ni álcalis."
+    },
+    {
+     "t": "p",
+     "x": "Si tiene una mampara de ducha, tan propensa a los depósitos de agua dura, le ayudará el vinagre. Es un producto universal y económico. Gracias a su contenido en ácido acético es un potente desinfectante. «Mata» bacterias nocivas como las salmonelas, la E. coli y los agentes de la disentería. Por eso tome ¼ de vaso de vinagre, 2 vasos de agua y media cucharadita de un detergente orgánico. Agite en un pulverizador y limpie con gusto. Al terminar, pase un paño de microfibra."
+    },
+    {
+     "t": "p",
+     "x": "El siguiente en la lista de limpieza es el lavabo. A menudo se forman en él manchas amarillas por el agua y el jabón. Eliminarlas es muy fácil. Mezcle una pequeña cantidad de vinagre templado con una o dos pizcas de sal de cocina. Aplique esto sobre un estropajo y frote. Un poco de esfuerzo y el lavabo queda como nuevo. Del mismo modo se puede lavar también el inodoro."
+    },
+    {
+     "t": "p",
+     "x": "Parte inseparable del baño es la grifería. Para devolverle una limpieza como un espejo, use pasta de dientes. Aplíquela sobre una esponja y frote. También se puede dar brillo a los grifos con un gajo de limón y secarlos después con un paño de microfibra."
+    },
+    {
+     "t": "p",
+     "x": "Si en su baño ha aparecido moho, elimínelo cuanto antes. Sus esporas son tóxicas y provocan alergia, y afectan sobre todo a niños y ancianos, cuyo organismo es el más susceptible. Por eso, aplique vinagre sobre la zona afectada, déjelo que se absorba y retírelo con una esponja corriente. Si decide combatir el moho, elimine sin falta las fuentes de humedad."
+    },
+    {
+     "t": "p",
+     "x": "Cuando su bañera reluzca de limpia, es hora de terminar la limpieza lavando la puerta y el suelo. Cómo hacerlo correctamente, léalo aquí."
+    },
+    {
+     "t": "p",
+     "x": "También se puede limpiar el baño sin esfuerzo con un limpiador a vapor. La suciedad, el óxido y la cal de los sanitarios y las paredes no se le resisten. Su espejo, su inodoro y su bañera quedarán como nuevos tras la limpieza. Pero si no tiene este aparato en casa, no hace falta gastar dinero en comprarlo. Basta con invitar a los especialistas en cuidado ecológico del hogar de iCleaning, que con su equipo profesional y química doméstica orgánica certificada e hipoalergénica limpiarán los rincones más alejados del baño. Y enseñarán además a la señora de la casa a limpiar su propio baño de forma correcta y lo más rápida posible."
+    },
+    {
+     "t": "p",
+     "x": "Como ve, es posible mantener la casa limpia con productos económicos, sencillos e inocuos. Los especialistas en cuidado ecológico del hogar de iCleaning, con formación profesional, utilizan en su trabajo productos naturales y probados. Ahorre tiempo y esfuerzo: confíe en los profesionales y su baño cobrará nueva vida. Y usted tendrá más tiempo para estar con sus seres queridos."
+    }
+   ]
+  },
+  "linen": {
+   "title": "8 consejos para elegir la ropa de cama infantil",
+   "date": "2024-01-16",
+   "desc": "Elegir la ropa de cama infantil suele parecernos una tarea difícil. Los consejos de iCleaning le ayudarán a acertar.",
+   "seo": "8 consejos para elegir la ropa de cama infantil",
+   "body": [
+    {
+     "t": "p",
+     "x": "Un sueño saludable es la clave de la salud física y emocional de su hijo. En gran medida depende de la elección correcta de la ropa de cama. Parece una pequeñez, pero es precisamente la ropa de cama la que influye en el estado de ánimo del pequeño durante todo el día. Y, por tanto, también en el suyo."
+    },
+    {
+     "t": "img"
+    },
+    {
+     "t": "p",
+     "x": "Al elegir la ropa de cama para su hijo, siga estas reglas"
+    },
+    {
+     "t": "h",
+     "x": "1. Calidad del tejido"
+    },
+    {
+     "t": "p",
+     "x": "Ante todo, fíjese en el tejido con el que está confeccionada la ropa de cama. Para no provocar el desarrollo de alergias desde edades tempranas, elija materiales naturales: satén, percal, algodón. La composición del tejido suele indicarla el fabricante en la etiqueta."
+    },
+    {
+     "t": "p",
+     "x": "Al elegir ropa de cama para recién nacidos, recuerde que al principio se lavará con especial frecuencia, por lo que debe ser resistente. Por eso lo más adecuado es la ropa de satén. Es más resistente que el algodón liso y muy suave, lo que es importante para la delicada piel del bebé."
+    },
+    {
+     "t": "h",
+     "x": "2. Resistencia del material"
+    },
+    {
+     "t": "p",
+     "x": "Un tejido de mala calidad «pierde el aspecto» con bastante rapidez, se vuelve más fino y empieza a transparentarse. Fíjese en la densidad del material, que el fabricante suele indicar en la etiqueta en gramos por metro cuadrado. Cuanto mayor sea, naturalmente mejor."
+    },
+    {
+     "t": "h",
+     "x": "3. Color"
+    },
+    {
+     "t": "p",
+     "x": "Según los psicólogos, el color de la ropa de cama de su hijo determina en gran medida su estado psicológico y la calidad de su sueño. Por eso, al elegir ropa para un bebé, fíjese en las prendas de tonos tranquilos y naturales. No utilice en ningún caso los colores ácidos tan populares hoy: ejercen un efecto excitante sobre el sistema nervioso de un niño pequeño. Así, resultan ideales el azul suave, el rosa, el verde y el beige con dibujos discretos de ositos, elefantes, etc. En una palabra, los que atraigan la atención del bebé y le ayuden a conocer el mundo."
+    },
+    {
+     "t": "p",
+     "x": "Si elige ropa de cama para un niño mayor, tenga en cuenta las siguientes particularidades:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "La ropa de cama azul es adecuada para un niño activo. Este color ayuda a aliviar la tensión emocional acumulada durante el día.",
+      "La ropa de cama en tonos suaves que recuerdan a golosinas (canela, chocolate y caramelo) debe elegirse para quienes comen mal o rechazan por completo el desayuno. Los psicólogos afirman que, usando ropa de cama de este color durante un mes, el resultado no se hará esperar y el apetito volverá al pequeño.",
+      "Tenga cuidado con la ropa de cama morada. Este color deprime el sistema nervioso y puede provocar mal humor.",
+      "Evite en su elección los colores oscuros y sombríos y prefiera los tonos coloridos y alegres, que ayudarán al niño a desarrollar la imaginación."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "4. Método de teñido"
+    },
+    {
+     "t": "p",
+     "x": "Elija prendas teñidas con colorantes naturales. No destiñen, no provocan alergia y no teñirán la piel del bebé durante el sueño. El tinte químico se detecta oliendo la prenda: tiene un olor desagradable."
+    },
+    {
+     "t": "h",
+     "x": "5. La costura con la que está cosido el tejido"
+    },
+    {
+     "t": "p",
+     "x": "La ropa de calidad se confecciona con costura de ropa blanca. Fíjese también en los bordes. Deben estar necesariamente rematados."
+    },
+    {
+     "t": "h",
+     "x": "6. Tamaño de la ropa de cama"
+    },
+    {
+     "t": "p",
+     "x": "Una cama cómoda es la clave de un sueño saludable para su hijo. Por eso elija la ropa por tamaño, de modo que no sobren trozos que se arruguen o cuelguen hasta el suelo recogiendo polvo innecesario."
+    },
+    {
+     "t": "h",
+     "x": "7. Seguridad en la cama"
+    },
+    {
+     "t": "p",
+     "x": "Al elegir ropa de cama para los más pequeños, fíjese en el cierre del nórdico. Los hay de distintos tipos: cremallera, velcro, botones. Algunos no se cierran en absoluto. Esos sirven para niños mayores. Para los bebés es seguro comprar prendas con cremallera lateral, para que no se enreden ni se traguen botones."
+    },
+    {
+     "t": "h",
+     "x": "8. Ropa de cama según la edad"
+    },
+    {
+     "t": "p",
+     "x": "Respete las preferencias del niño. Elija la ropa de cama según su edad e intereses. Si al niño le gustan los dibujos animados de coches, regálele alegría comprándole ropa de cama con sus personajes favoritos. En ese caso, al acostarse el niño se sentirá cómodo y protegido, lo que contribuirá a un sueño profundo."
+    },
+    {
+     "t": "p",
+     "x": "Sea atento al elegir la ropa de cama para su hijo. Y no olvide que, según una investigación del diario británico Daily Mail, la cama es el lugar más sucio de su vivienda. Precisamente por eso el 34 % de los británicos sufre síntomas de alergia. Por tanto, para que su hijo esté sano, cambie la ropa de cama al menos una vez por semana y realice periódicamente una limpieza profunda del colchón en el que duerme el pequeño. Si le falta tiempo o recursos, los especialistas en cuidado ecológico de iCleaning, con formación profesional, le ayudarán. Llame al (067) 327-34-32 y en unas pocas horas su casa estará limpia y saludable."
+    }
+   ]
+  },
+  "plants": {
+   "title": "Plantas de interior útiles, o cómo sobrevivir en una gran ciudad",
+   "date": "2024-01-16",
+   "desc": "Plantas de interior: ¿cuáles son útiles precisamente para una vivienda de ciudad? Resulta que una flor puede protegerle de la gripe, aliviar el estrés y mejorar su salud.",
+   "seo": "Plantas de interior útiles",
+   "body": [
+    {
+     "t": "p",
+     "x": "Al comprar plantas de interior para nuestra casa, solemos fijarnos en su belleza y en cómo combinan con la decoración. Pero no siempre pensamos en el beneficio que aportarán a nuestro hogar. Y resulta que una flor puede protegerle de la gripe, aliviar el estrés y mejorar su salud."
+    },
+    {
+     "t": "p",
+     "x": "La campeona en la depuración de espacios es el clorofito. Fácil de cuidar y útil. Limpia de maravilla el aire contaminado y absorbe el formaldehído, cuya fuente en una vivienda suele ser el humo del tabaco, las cocinas de gas, las velas aromáticas y las moquetas. Si alguien en casa está enfermo, el clorofito limpiará bastante rápido la estancia de bacterias nocivas. No es casual que las plagas nunca lo ataquen. Y para potenciar las propiedades depuradoras de la planta, ponga en la maceta unas pastillas de carbón activado."
+    },
+    {
+     "t": "img"
+    },
+    {
+     "t": "p",
+     "x": "En invierno no se puede prescindir del ficus. Al liberar fitoncidas, le protegerá de los resfriados, humedecerá el aire seco y lo saturará de oxígeno. Por eso es mejor colocarlo en el salón y en la cocina. Las hojas brillantes del ficus retienen mucho polvo, por lo que hay que limpiarlas a menudo. Y los floricultores experimentados recomiendan no regar la planta en invierno, sino solo pulverizar las hojas."
+    },
+    {
+     "t": "p",
+     "x": "La flor ideal para un dormitorio es el aloe. Por la noche depura el aire, liberando oxígeno y absorbiendo dióxido de carbono. Y durante el día elimina la electricidad estática de la vivienda. Mucha gente tiene aloe en casa por sus propiedades medicinales. Si se ha resfriado o le duele la cabeza, su jugo le ayudará sin duda. Y una hoja lavada de la planta resulta útil aplicada sobre una herida sangrante o infectada."
+    },
+    {
+     "t": "p",
+     "x": "Un excelente antidepresivo es el geranio. Le ayudará a relajarse en situaciones de estrés y a superar el insomnio. Basta con ponerlo en el dormitorio. Sin requerir cuidados especiales, le regalará un sueño profundo y tranquilo. Y, como el geranio libera sustancias biológicamente activas que matan estafilococos y estreptococos, desinfecta el espacio, ahuyenta las moscas y absorbe la humedad y los humos, resultará especialmente útil en su cocina."
+    },
+    {
+     "t": "p",
+     "x": "Una verdadera ayudante del ama de casa es la begonia, conocida por muchos. Este pequeño arbusto de flores brillantes de forma irregular atrae de maravilla el polvo y humedece el aire. Además, destruye hasta el 80 % de los hongos y microbios patógenos, reduciendo el efecto de la radiación del ordenador y de los electrodomésticos."
+    },
+    {
+     "t": "p",
+     "x": "Una auténtica fábrica de oxígeno es la sansevieria o «lengua de suegra». La planta librará su vivienda de la sequedad y el aire cargado y depurará el aire del formaldehído innecesario."
+    },
+    {
+     "t": "p",
+     "x": "Y si ha hecho una reforma recientemente, los especialistas en cuidado ecológico del hogar de iCleaning, con formación profesional, le ayudarán sin falta a poner orden. Sobre los secretos de la limpieza ecológica puede leer aquí."
+    },
+    {
+     "t": "p",
+     "x": "Incluso en una vivienda limpia, el olor de los nuevos materiales de construcción y muebles es sencillamente inevitable. A menudo se intenta eliminarlo con ambientadores artificiales, que influyen negativamente en el organismo, sobre todo en el de los niños. Pero hay una salida. Una planta única y filtro natural es el espatifilo. Muy poco exigente y fácil de cuidar. Basta con colocarlo en la vivienda tras la reforma y en pocos días los vapores de acetona, amoníaco y benceno y los olores del yeso y de los muebles nuevos disminuirán notablemente. La planta es tan eficaz que en un piso de una habitación basta con una sola maceta."
+    },
+    {
+     "t": "p",
+     "x": "Para absorber los vapores nocivos del linóleo y de los gases de escape le ayudará la palmera de salón (camedorea). Solo un par de plantas pueden mejorar considerablemente la calidad del aire de la vivienda."
+    },
+    {
+     "t": "p",
+     "x": "Para no enfermar, tenga un limonero o un eucalipto. Liberan sustancias que reducen casi a la mitad la cantidad de componentes patógenos en el aire. Y, al relajar los músculos lisos de los bronquios, eliminan los espasmos. Por eso estas plantas son útiles para los asmáticos y junto a ellas se respira con facilidad."
+    },
+    {
+     "t": "p",
+     "x": "Las plantas de interior le aportarán beneficio solo si están limpias y sanas. El polvo es muy dañino para las flores. Obstruye los poros, dificulta la evaporación de la humedad y el intercambio de gases, con lo que se altera la asimilación del dióxido de carbono por las plantas y la producción de sustancias útiles."
+    },
+    {
+     "t": "p",
+     "x": "Para que esto no ocurra, las flores necesitan cuidados adecuados. Ante todo, para quitar el polvo, limpie las plantas con una esponja húmeda. Y las flores de hojas vellosas y plegadas, y los cactus, límpielos de polvo con un pincel. Después envíe la planta a la ducha. Las macetas se pueden colocar directamente en la bañera y lavar las hojas con un chorro de agua. Y para que no se lave la tierra de la maceta, cúbrala con film de polietileno."
+    },
+    {
+     "t": "p",
+     "x": "Conviene hacer un «día de baño» a las flores al menos una vez al mes. Pero si tiene un gran jardín de invierno o está ocupado con otras cosas, los especialistas en cuidado ecológico de iCleaning le ayudarán de forma rápida y con calidad. Llame al (067) 327-34-32 y en unas pocas horas la limpieza visitará su casa y las flores bien cuidadas alegrarán su vista."
+    },
+    {
+     "t": "p",
+     "x": "Porque nos preocupamos por usted y cuidamos el tiempo y la salud de cada cliente."
+    }
+   ]
+  }
+ }
+}
