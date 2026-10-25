@@ -40,6 +40,12 @@
 
 Полный отчёт о заражении — в проекте claude.ai «iCleaning», документ `claude/malware-report.md`.
 
+## Выкладка и GitHub
+
+- Сайт размещён на CityHost (аккаунт хостинга `ch4ca15def`, сервер `mondeo.cityhost.com.ua`, IP `84.246.80.22`), пока на пробном периоде. DNS-зона — у CityHost, регистратор домена — imena.ua (домен оплачен до 26.12.2026).
+- Выкладка: `npm run build`, затем `powershell -ExecutionPolicy Bypass -File .\deploy-ftp.ps1` из корня проекта (пароль FTP вводит владелец, он нигде не хранится).
+- Код хранится в приватном репозитории https://github.com/icleaning/icleaning-site (ветка `main`). После правок — коммит и `git push`. `dist/` и архивы в git не попадают.
+
 ## Как работать с проектом
 
 - Ответы и тексты для владельца — на русском.
