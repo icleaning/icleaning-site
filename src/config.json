@@ -8,7 +8,7 @@
     "phoneTop": "+ 38 (067) 327 3432",
     "facebook": "https://www.facebook.com/icleaning24",
     "formEndpoint": "/send.php",
-    "formAccessKey": ""
+    "formAccessKey": "7e1141e7-340a-4bea-9ba6-17e23384345f"
   },
   "langs": ["uk", "ru", "en", "es"],
   "defaultLang": "uk",
