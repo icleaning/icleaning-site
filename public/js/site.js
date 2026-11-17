@@ -108,7 +108,7 @@
       };
       fetch(endpoint, { method: 'POST', body: new FormData(form), headers: { Accept: 'application/json' } })
         .then(function (r) { return r.json(); })
-        .then(function (j) { j && j.ok ? done() : fail(); })
+        .then(function (j) { j && (j.ok || j.success === true || j.success === 'true') ? done() : fail(); })
         .catch(fail);
     });
   }
