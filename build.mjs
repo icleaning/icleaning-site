@@ -118,7 +118,7 @@ function renderLayout(ctx, { lang, key, post, title, desc, body, alt, image, bod
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Raleway:wght@500;600;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Roboto:wght@400;500&display=swap&subset=cyrillic,latin-ext">
   <link rel="stylesheet" href="${U.asset('/css/style.css')}">
 </head>
-<body class="${bodyClass}" data-lang="${lang}" data-endpoint="${esc(site.formEndpoint.startsWith('/') ? U.asset(site.formEndpoint) : site.formEndpoint)}" data-phone="${esc(site.phoneTop)}" data-thanks="${U.page(lang, 'thanks')}">
+<body class="${bodyClass}" data-lang="${lang}" data-endpoint="${esc(site.formAccessKey ? 'https://api.web3forms.com/submit' : site.formEndpoint.startsWith('/') ? U.asset(site.formEndpoint) : site.formEndpoint)}" data-phone="${esc(site.phoneTop)}" data-thanks="${U.page(lang, 'thanks')}">
 <a class="skip" href="#main">${esc(ui.common.skip)}</a>
 <header class="site-header" id="top">
   <div class="topbar"><div class="wrap">
@@ -175,6 +175,7 @@ function renderFooter(ctx, lang) {
 function renderModal(ctx, lang) {
   const m = ctx.L[lang].ui.modal;
   const c = ctx.L[lang].ui.common;
+  const site = ctx.config.site;
   return `<div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" hidden>
   <div class="modal-box">
     <button type="button" class="modal-x" data-close aria-label="${esc(c.close)}">×</button>
@@ -193,7 +194,10 @@ function renderModal(ctx, lang) {
       <input type="hidden" name="details" value="">
       <input type="hidden" name="page" value="">
       <input type="hidden" name="lang" value="${lang}">
-      <p class="form-msg" role="status" aria-live="polite"></p>
+${site.formAccessKey ? `      <input type="hidden" name="access_key" value="${esc(site.formAccessKey)}">
+      <input type="hidden" name="subject" value="iCleaning: нова заявка з сайту">
+      <input type="hidden" name="from_name" value="icleaning.com.ua">
+` : ''}      <p class="form-msg" role="status" aria-live="polite"></p>
       <button type="submit" class="btn btn-block">${esc(m.send)}</button>
     </form>
   </div>

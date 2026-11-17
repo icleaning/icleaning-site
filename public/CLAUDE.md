@@ -42,9 +42,11 @@
 
 ## Выкладка и GitHub
 
-- Сайт размещён на CityHost (аккаунт хостинга `ch4ca15def`, сервер `mondeo.cityhost.com.ua`, IP `84.246.80.22`), пока на пробном периоде. DNS-зона — у CityHost, регистратор домена — imena.ua (домен оплачен до 26.12.2026).
-- Выкладка: `npm run build`, затем `powershell -ExecutionPolicy Bypass -File .\deploy-ftp.ps1` из корня проекта (пароль FTP вводит владелец, он нигде не хранится).
-- Код хранится в приватном репозитории https://github.com/icleaning/icleaning-site (ветка `main`). После правок — коммит и `git push`. `dist/` и архивы в git не попадают.
+- С ноября 2026 сайт размещается на **GitHub Pages** (бесплатно). Пробный период CityHost закончился, `deploy-ftp.ps1` больше не используется (оставлен на случай возврата на PHP-хостинг).
+- Код — в репозитории https://github.com/icleaning/icleaning-site (ветка `main`). Любой `git push` в `main` запускает `.github/workflows/pages.yml`: сборка `npm run build` и публикация `dist/` на Pages. Отдельной выкладки не нужно.
+- Домен icleaning.com.ua — файл `public/CNAME`. Регистратор домена — imena.ua (оплачен до 26.12.2026). DNS: A-записи на 185.199.108.153, 185.199.109.153, 185.199.110.153, 185.199.111.153 и CNAME `www` → `icleaning.github.io`.
+- PHP на Pages нет, поэтому `send.php` не работает. Заявки с форм уходят через Web3Forms: ключ доступа в `src/config.json` → `site.formAccessKey` (ключ не секретный, его можно хранить в коде). Если ключ пустой, формы шлют на `/send.php`.
+- `dist/` и архивы в git не попадают.
 
 ## Как работать с проектом
 
