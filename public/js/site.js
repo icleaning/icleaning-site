@@ -93,7 +93,9 @@
       var set = function (t, c) { msg.textContent = t; msg.className = 'form-msg ' + (c || ''); };
       if (!name) { set(d.invalidName, 'err'); form.elements.name.focus(); return; }
       if (phone.replace(/\D/g, '').length < 9) { set(d.invalidPhone, 'err'); form.elements.phone.focus(); return; }
-      var btn = $('button[type=submit]', form); btn.disabled = true; set(d.sending);
+      var btn = $('button[type=submit]', form);
+      if (form.elements.botcheck && form.elements.botcheck.checked) { location.href = document.body.getAttribute('data-thanks'); return; } // honeypot: bots only
+      btn.disabled = true; set(d.sending);
       var endpoint = document.body.getAttribute('data-endpoint');
       var local = /^(localhost|127\.|0\.0\.0\.0|\[::1\])/.test(location.hostname) || location.protocol === 'file:';
       var done = function () {
@@ -127,10 +129,15 @@
       var sub = base + extras, s = parseFloat(selF.value) || 0;
       var one = sub * (1 + s), first = sub * (1 + s + parseFloat(cs.first));
       var roomLabel = selR.options[selR.selectedIndex].dataset.label;
-      var h = '<div><dt>' + cs.lRooms + ': ' + roomLabel + '</dt><dd>' + fmt(base) + '</dd></div>';
-      if (extras) h += '<div><dt>' + cs.lExtras + '</dt><dd>+' + fmt(extras) + '</dd></div>';
-      if (s) h += '<div><dt>' + cs.lFreq + ' (+' + Math.round(s * 100) + '%)</dt><dd>+' + fmt(sub * s) + '</dd></div>';
-      lines.innerHTML = h;
+      // built with textContent (not innerHTML): labels are never parsed as HTML
+      var line = function (dt, dd) {
+        var row = document.createElement('div'), a = document.createElement('dt'), b = document.createElement('dd');
+        a.textContent = dt; b.textContent = dd; row.appendChild(a); row.appendChild(b); lines.appendChild(row);
+      };
+      lines.textContent = '';
+      line(cs.lRooms + ': ' + roomLabel, fmt(base));
+      if (extras) line(cs.lExtras, '+' + fmt(extras));
+      if (s) line(cs.lFreq + ' (+' + Math.round(s * 100) + '%)', '+' + fmt(sub * s));
       $('[data-one]', calc).textContent = fmt(one);
       $('[data-first-price]', calc).textContent = fmt(first);
       empty.hidden = true; lines.hidden = false; total.hidden = false; orderBtn.disabled = false;

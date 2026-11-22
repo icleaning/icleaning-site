@@ -21,7 +21,7 @@ function clean($v, $max = 500) {
 }
 
 if ($_SERVER['REQUEST_METHOD'] !== 'POST') fail(405);
-if (!empty($_POST['website'])) { echo json_encode(['ok' => true]); exit; }   // honeypot for bots
+if (!empty($_POST['botcheck']) || !empty($_POST['website'])) { echo json_encode(['ok' => true]); exit; }   // honeypot for bots
 
 $name    = clean($_POST['name']    ?? '', 100);
 $phone   = clean($_POST['phone']   ?? '', 40);
