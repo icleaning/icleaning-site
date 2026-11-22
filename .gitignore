@@ -12,3 +12,12 @@ node_modules/
 *.key
 *.crt
 .env
+.env.*
+*.pfx
+*.p12
+*.ppk
+id_rsa*
+*.sql
+*.bak
+*.log
+wp-config.php

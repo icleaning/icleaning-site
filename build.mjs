@@ -19,6 +19,24 @@ const PUBLIC = path.join(ROOT, 'public');
 const DIST = path.join(ROOT, 'dist');
 
 const esc = (s) => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+// JSON for <script type="application/ld+json">: escape "<" so content can never close the script tag
+const ldJSON = (o) => JSON.stringify(o).replace(/</g, '\\u003c');
+
+/* Content-Security-Policy (GitHub Pages cannot send HTTP headers, so it goes into a <meta> tag).
+   Only our own files, Google Fonts and the Web3Forms form endpoint are allowed; no inline scripts. */
+const CSP = [
+  "default-src 'self'",
+  "script-src 'self'",
+  "style-src 'self' https://fonts.googleapis.com",
+  "font-src 'self' https://fonts.gstatic.com",
+  "img-src 'self' data:",
+  "connect-src 'self' https://api.web3forms.com",
+  "form-action 'self' https://api.web3forms.com",
+  "base-uri 'self'",
+  "object-src 'none'",
+  "frame-src 'none'"
+].join('; ');
+
 const readJSON = (p) => JSON.parse(fs.readFileSync(p, 'utf8'));
 
 /* ------------------------------------------------------------------ */
@@ -101,6 +119,8 @@ function renderLayout(ctx, { lang, key, post, title, desc, body, alt, image, bod
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Security-Policy" content="${CSP}">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
   <title>${esc(title)}</title>
   <meta name="description" content="${esc(desc)}">
   <link rel="canonical" href="${canonical}">
@@ -190,7 +210,7 @@ function renderModal(ctx, lang) {
       <input id="f-phone" name="phone" type="tel" autocomplete="tel" placeholder="+38 (0__) ___ __ __" required>
       <label for="f-comment">${esc(m.comment)}</label>
       <textarea id="f-comment" name="comment" rows="3"></textarea>
-      <input type="text" name="website" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <input type="checkbox" name="botcheck" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
       <input type="hidden" name="details" value="">
       <input type="hidden" name="page" value="">
       <input type="hidden" name="lang" value="${lang}">
@@ -344,7 +364,7 @@ ${reviews(ctx, lang)}`;
     telephone: config.site.phone, areaServed: { '@type': 'AdministrativeArea', name: lang === 'uk' ? 'Київ, Київська область' : lang === 'ru' ? 'Киев, Киевская область' : lang === 'es' ? 'Kiev y región de Kiev' : 'Kyiv and Kyiv region' }
   };
   return renderLayout(ctx, { lang, key: 'home', title: h.meta?.title || T.home.meta.title, desc: T.home.meta.desc, bodyClass: 'home',
-    body: body + `\n<script type="application/ld+json">${JSON.stringify(org)}</script>` });
+    body: body + `\n<script type="application/ld+json">${ldJSON(org)}</script>` });
 }
 
 function pageService(ctx, lang, key) {
@@ -374,7 +394,7 @@ function pageFaq(ctx, lang) {
   const ld = { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: f.items.map((it) => ({ '@type': 'Question', name: it.q, acceptedAnswer: { '@type': 'Answer', text: it.a } })) };
   const body = `<section class="section page-head"><div class="wrap narrow"><h1 class="sec-title">${esc(f.h1)}</h1></div></section>
 <section class="section"><div class="wrap narrow faq">${items}${orderButton(T.ui, T.ui.common.order)}</div></section>
-<script type="application/ld+json">${JSON.stringify(ld)}</script>`;
+<script type="application/ld+json">${ldJSON(ld)}</script>`;
   return renderLayout(ctx, { lang, key: 'faq', title: f.meta.title, desc: f.meta.desc, body });
 }
 
@@ -411,7 +431,7 @@ function pagePost(ctx, lang, k) {
 <article class="section post"><div class="wrap narrow"><div class="prose">${body}</div>
   <p class="center back"><a href="${U.page(lang, 'info')}">← ${esc(T.ui.common.allPosts)}</a></p>
   ${orderButton(T.ui, T.ui.common.order)}</div></article>
-<script type="application/ld+json">${JSON.stringify(art)}</script>`;
+<script type="application/ld+json">${ldJSON(art)}</script>`;
   return renderLayout(ctx, { lang, key: 'info', post: k, title: p.seo || p.title, desc: p.desc, body: html, image: img, ogType: 'article' });
 }
 
